@@ -1,0 +1,1350 @@
+﻿[08-Sep-2013 20:41:34 UTC] PHP Parse error:  syntax error, unexpected ';' in C:\wamp\www\na\SamFunctions\StrFunc.php on line 81
+[08-Sep-2013 20:41:34 UTC] PHP Stack trace:
+[08-Sep-2013 20:41:34 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[08-Sep-2013 20:41:34 UTC] PHP   2. require() C:\wamp\www\na\index.php:33
+[08-Sep-2013 20:41:58 UTC] PHP Warning:  preg_replace(): Compilation failed: nothing to repeat at offset 0 in C:\wamp\www\na\SamFunctions\StrFunc.php on line 81
+[08-Sep-2013 20:41:58 UTC] PHP Stack trace:
+[08-Sep-2013 20:41:58 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[08-Sep-2013 20:41:58 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[08-Sep-2013 20:41:58 UTC] PHP   3. SamCleanUri() C:\wamp\www\na\Samconfig\SamUri.php:12
+[08-Sep-2013 20:41:58 UTC] PHP   4. preg_replace() C:\wamp\www\na\SamFunctions\StrFunc.php:81
+[08-Sep-2013 20:42:00 UTC] PHP Warning:  preg_replace(): Compilation failed: nothing to repeat at offset 0 in C:\wamp\www\na\SamFunctions\StrFunc.php on line 81
+[08-Sep-2013 20:42:00 UTC] PHP Stack trace:
+[08-Sep-2013 20:42:00 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[08-Sep-2013 20:42:00 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[08-Sep-2013 20:42:00 UTC] PHP   3. SamCleanUri() C:\wamp\www\na\Samconfig\SamUri.php:12
+[08-Sep-2013 20:42:00 UTC] PHP   4. preg_replace() C:\wamp\www\na\SamFunctions\StrFunc.php:81
+[08-Sep-2013 20:43:06 UTC] PHP Warning:  preg_replace(): Compilation failed: nothing to repeat at offset 0 in C:\wamp\www\na\SamFunctions\StrFunc.php on line 81
+[08-Sep-2013 20:43:06 UTC] PHP Stack trace:
+[08-Sep-2013 20:43:06 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[08-Sep-2013 20:43:06 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[08-Sep-2013 20:43:06 UTC] PHP   3. SamCleanUri() C:\wamp\www\na\Samconfig\SamUri.php:12
+[08-Sep-2013 20:43:06 UTC] PHP   4. preg_replace() C:\wamp\www\na\SamFunctions\StrFunc.php:81
+[08-Sep-2013 20:43:06 UTC] PHP Warning:  preg_replace(): Compilation failed: nothing to repeat at offset 0 in C:\wamp\www\na\SamFunctions\StrFunc.php on line 81
+[08-Sep-2013 20:43:06 UTC] PHP Warning:  preg_replace(): Compilation failed: nothing to repeat at offset 0 in C:\wamp\www\na\SamFunctions\StrFunc.php on line 81
+[08-Sep-2013 20:43:06 UTC] PHP Stack trace:
+[08-Sep-2013 20:43:06 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[08-Sep-2013 20:43:06 UTC] PHP Warning:  preg_replace(): Compilation failed: nothing to repeat at offset 0 in C:\wamp\www\na\SamFunctions\StrFunc.php on line 81
+[08-Sep-2013 20:43:06 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[08-Sep-2013 20:43:06 UTC] PHP Stack trace:
+[08-Sep-2013 20:43:06 UTC] PHP   3. SamCleanUri() C:\wamp\www\na\Samconfig\SamUri.php:12
+[08-Sep-2013 20:43:06 UTC] PHP   4. preg_replace() C:\wamp\www\na\SamFunctions\StrFunc.php:81
+[08-Sep-2013 20:43:06 UTC] PHP Stack trace:
+[08-Sep-2013 20:43:06 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[08-Sep-2013 20:43:06 UTC] PHP Warning:  preg_replace(): Compilation failed: nothing to repeat at offset 0 in C:\wamp\www\na\SamFunctions\StrFunc.php on line 81
+[08-Sep-2013 20:43:06 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[08-Sep-2013 20:43:06 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[08-Sep-2013 20:43:06 UTC] PHP Stack trace:
+[08-Sep-2013 20:43:06 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[08-Sep-2013 20:43:06 UTC] PHP   3. SamCleanUri() C:\wamp\www\na\Samconfig\SamUri.php:12
+[08-Sep-2013 20:43:06 UTC] PHP   4. preg_replace() C:\wamp\www\na\SamFunctions\StrFunc.php:81
+[08-Sep-2013 20:43:06 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[08-Sep-2013 20:43:06 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[08-Sep-2013 20:43:06 UTC] PHP Warning:  preg_replace(): Compilation failed: nothing to repeat at offset 0 in C:\wamp\www\na\SamFunctions\StrFunc.php on line 81
+[08-Sep-2013 20:43:06 UTC] PHP Warning:  preg_replace(): Compilation failed: nothing to repeat at offset 0 in C:\wamp\www\na\SamFunctions\StrFunc.php on line 81
+[08-Sep-2013 20:43:06 UTC] PHP Stack trace:
+[08-Sep-2013 20:43:06 UTC] PHP Stack trace:
+[08-Sep-2013 20:43:06 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[08-Sep-2013 20:43:06 UTC] PHP   3. SamCleanUri() C:\wamp\www\na\Samconfig\SamUri.php:12
+[08-Sep-2013 20:43:06 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[08-Sep-2013 20:43:06 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[08-Sep-2013 20:43:06 UTC] PHP   3. SamCleanUri() C:\wamp\www\na\Samconfig\SamUri.php:12
+[08-Sep-2013 20:43:06 UTC] PHP   3. SamCleanUri() C:\wamp\www\na\Samconfig\SamUri.php:12
+[08-Sep-2013 20:43:06 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[08-Sep-2013 20:43:06 UTC] PHP   3. SamCleanUri() C:\wamp\www\na\Samconfig\SamUri.php:12
+[08-Sep-2013 20:43:06 UTC] PHP   4. preg_replace() C:\wamp\www\na\SamFunctions\StrFunc.php:81
+[08-Sep-2013 20:43:06 UTC] PHP   4. preg_replace() C:\wamp\www\na\SamFunctions\StrFunc.php:81
+[08-Sep-2013 20:43:06 UTC] PHP Warning:  preg_replace(): Compilation failed: nothing to repeat at offset 0 in C:\wamp\www\na\SamFunctions\StrFunc.php on line 81
+[08-Sep-2013 20:43:06 UTC] PHP   4. preg_replace() C:\wamp\www\na\SamFunctions\StrFunc.php:81
+[08-Sep-2013 20:43:06 UTC] PHP Stack trace:
+[08-Sep-2013 20:43:06 UTC] PHP   4. preg_replace() C:\wamp\www\na\SamFunctions\StrFunc.php:81
+[08-Sep-2013 20:43:06 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[08-Sep-2013 20:43:06 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[08-Sep-2013 20:43:06 UTC] PHP   3. SamCleanUri() C:\wamp\www\na\Samconfig\SamUri.php:12
+[08-Sep-2013 20:43:06 UTC] PHP   4. preg_replace() C:\wamp\www\na\SamFunctions\StrFunc.php:81
+[08-Sep-2013 20:43:08 UTC] PHP Warning:  preg_replace(): Compilation failed: nothing to repeat at offset 0 in C:\wamp\www\na\SamFunctions\StrFunc.php on line 81
+[08-Sep-2013 20:43:08 UTC] PHP Stack trace:
+[08-Sep-2013 20:43:08 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[08-Sep-2013 20:43:08 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[08-Sep-2013 20:43:08 UTC] PHP   3. SamCleanUri() C:\wamp\www\na\Samconfig\SamUri.php:12
+[08-Sep-2013 20:43:08 UTC] PHP   4. preg_replace() C:\wamp\www\na\SamFunctions\StrFunc.php:81
+[08-Sep-2013 20:43:08 UTC] PHP Warning:  preg_replace(): Compilation failed: nothing to repeat at offset 0 in C:\wamp\www\na\SamFunctions\StrFunc.php on line 81
+[08-Sep-2013 20:43:08 UTC] PHP Warning:  preg_replace(): Compilation failed: nothing to repeat at offset 0 in C:\wamp\www\na\SamFunctions\StrFunc.php on line 81
+[08-Sep-2013 20:43:08 UTC] PHP Warning:  preg_replace(): Compilation failed: nothing to repeat at offset 0 in C:\wamp\www\na\SamFunctions\StrFunc.php on line 81
+[08-Sep-2013 20:43:08 UTC] PHP Stack trace:
+[08-Sep-2013 20:43:08 UTC] PHP Warning:  preg_replace(): Compilation failed: nothing to repeat at offset 0 in C:\wamp\www\na\SamFunctions\StrFunc.php on line 81
+[08-Sep-2013 20:43:08 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[08-Sep-2013 20:43:08 UTC] PHP Stack trace:
+[08-Sep-2013 20:43:08 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[08-Sep-2013 20:43:08 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[08-Sep-2013 20:43:08 UTC] PHP Stack trace:
+[08-Sep-2013 20:43:08 UTC] PHP Warning:  preg_replace(): Compilation failed: nothing to repeat at offset 0 in C:\wamp\www\na\SamFunctions\StrFunc.php on line 81
+[08-Sep-2013 20:43:08 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[08-Sep-2013 20:43:08 UTC] PHP   3. SamCleanUri() C:\wamp\www\na\Samconfig\SamUri.php:12
+[08-Sep-2013 20:43:08 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[08-Sep-2013 20:43:08 UTC] PHP   4. preg_replace() C:\wamp\www\na\SamFunctions\StrFunc.php:81
+[08-Sep-2013 20:43:08 UTC] PHP Warning:  preg_replace(): Compilation failed: nothing to repeat at offset 0 in C:\wamp\www\na\SamFunctions\StrFunc.php on line 81
+[08-Sep-2013 20:43:08 UTC] PHP Stack trace:
+[08-Sep-2013 20:43:08 UTC] PHP   3. SamCleanUri() C:\wamp\www\na\Samconfig\SamUri.php:12
+[08-Sep-2013 20:43:08 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[08-Sep-2013 20:43:08 UTC] PHP Stack trace:
+[08-Sep-2013 20:43:08 UTC] PHP   4. preg_replace() C:\wamp\www\na\SamFunctions\StrFunc.php:81
+[08-Sep-2013 20:43:08 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[08-Sep-2013 20:43:08 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[08-Sep-2013 20:43:08 UTC] PHP   3. SamCleanUri() C:\wamp\www\na\Samconfig\SamUri.php:12
+[08-Sep-2013 20:43:08 UTC] PHP Stack trace:
+[08-Sep-2013 20:43:08 UTC] PHP   4. preg_replace() C:\wamp\www\na\SamFunctions\StrFunc.php:81
+[08-Sep-2013 20:43:08 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[08-Sep-2013 20:43:08 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[08-Sep-2013 20:43:08 UTC] PHP   3. SamCleanUri() C:\wamp\www\na\Samconfig\SamUri.php:12
+[08-Sep-2013 20:43:08 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[08-Sep-2013 20:43:08 UTC] PHP   4. preg_replace() C:\wamp\www\na\SamFunctions\StrFunc.php:81
+[08-Sep-2013 20:43:08 UTC] PHP   3. SamCleanUri() C:\wamp\www\na\Samconfig\SamUri.php:12
+[08-Sep-2013 20:43:08 UTC] PHP   4. preg_replace() C:\wamp\www\na\SamFunctions\StrFunc.php:81
+[08-Sep-2013 20:43:08 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[08-Sep-2013 20:43:08 UTC] PHP   3. SamCleanUri() C:\wamp\www\na\Samconfig\SamUri.php:12
+[08-Sep-2013 20:43:08 UTC] PHP   4. preg_replace() C:\wamp\www\na\SamFunctions\StrFunc.php:81
+[08-Sep-2013 20:43:08 UTC] PHP Warning:  preg_replace(): Compilation failed: nothing to repeat at offset 0 in C:\wamp\www\na\SamFunctions\StrFunc.php on line 81
+[08-Sep-2013 20:43:08 UTC] PHP Stack trace:
+[08-Sep-2013 20:43:08 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[08-Sep-2013 20:43:08 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[08-Sep-2013 20:43:08 UTC] PHP   3. SamCleanUri() C:\wamp\www\na\Samconfig\SamUri.php:12
+[08-Sep-2013 20:43:08 UTC] PHP   4. preg_replace() C:\wamp\www\na\SamFunctions\StrFunc.php:81
+[08-Sep-2013 20:43:18 UTC] PHP Warning:  preg_replace(): Compilation failed: nothing to repeat at offset 0 in C:\wamp\www\na\SamFunctions\StrFunc.php on line 81
+[08-Sep-2013 20:43:18 UTC] PHP Stack trace:
+[08-Sep-2013 20:43:18 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[08-Sep-2013 20:43:18 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[08-Sep-2013 20:43:18 UTC] PHP   3. SamCleanUri() C:\wamp\www\na\Samconfig\SamUri.php:12
+[08-Sep-2013 20:43:18 UTC] PHP   4. preg_replace() C:\wamp\www\na\SamFunctions\StrFunc.php:81
+[09-Sep-2013 10:00:28 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'sam' not found in C:\wamp\www\na\Samconfig\SamUri.php on line 102
+[09-Sep-2013 10:00:28 UTC] PHP Stack trace:
+[09-Sep-2013 10:00:28 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[09-Sep-2013 10:00:28 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[09-Sep-2013 10:00:28 UTC] PHP   3. call_user_func_array() C:\wamp\www\na\Samconfig\SamUri.php:102
+[09-Sep-2013 10:01:05 UTC] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, class 'sam' not found in C:\wamp\www\na\Samconfig\SamUri.php on line 102
+[09-Sep-2013 10:01:05 UTC] PHP Stack trace:
+[09-Sep-2013 10:01:05 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[09-Sep-2013 10:01:05 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[09-Sep-2013 10:01:05 UTC] PHP   3. call_user_func() C:\wamp\www\na\Samconfig\SamUri.php:102
+[09-Sep-2013 17:10:51 UTC] PHP Notice:  Undefined index: 6046d9f778daea574a7af43183f67000usrid in C:\wamp\www\na\SamScript\SamContrl\sammodi.cls.php on line 42
+[09-Sep-2013 17:10:51 UTC] PHP Stack trace:
+[09-Sep-2013 17:10:51 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[09-Sep-2013 17:10:51 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[09-Sep-2013 17:10:51 UTC] PHP   3. call_user_func_array() C:\wamp\www\na\Samconfig\SamUri.php:94
+[09-Sep-2013 17:10:51 UTC] PHP   4. sammodi->index() C:\wamp\www\na\Samconfig\SamUri.php:94
+[09-Sep-2013 17:15:24 UTC] PHP Notice:  Undefined variable: _SESSION in C:\wamp\www\na\SamScript\SamContrl\sammodi.cls.php on line 42
+[09-Sep-2013 17:15:24 UTC] PHP Stack trace:
+[09-Sep-2013 17:15:24 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[09-Sep-2013 17:15:24 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[09-Sep-2013 17:15:24 UTC] PHP   3. call_user_func_array() C:\wamp\www\na\Samconfig\SamUri.php:94
+[09-Sep-2013 17:15:24 UTC] PHP   4. sammodi->index() C:\wamp\www\na\Samconfig\SamUri.php:94
+[09-Sep-2013 17:15:40 UTC] PHP Notice:  Undefined variable: _SESSION in C:\wamp\www\na\SamScript\SamContrl\sammodi.cls.php on line 42
+[09-Sep-2013 17:15:40 UTC] PHP Stack trace:
+[09-Sep-2013 17:15:40 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[09-Sep-2013 17:15:40 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[09-Sep-2013 17:15:40 UTC] PHP   3. call_user_func_array() C:\wamp\www\na\Samconfig\SamUri.php:94
+[09-Sep-2013 17:15:40 UTC] PHP   4. sammodi->index() C:\wamp\www\na\Samconfig\SamUri.php:94
+[09-Sep-2013 17:58:02 UTC] PHP Notice:  Array to string conversion in C:\wamp\www\na\SamScript\SamContrl\sammodi.cls.php on line 71
+[09-Sep-2013 17:58:02 UTC] PHP Stack trace:
+[09-Sep-2013 17:58:02 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[09-Sep-2013 17:58:02 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[09-Sep-2013 17:58:02 UTC] PHP   3. call_user_func_array() C:\wamp\www\na\Samconfig\SamUri.php:94
+[09-Sep-2013 17:58:02 UTC] PHP   4. sammodi->index() C:\wamp\www\na\Samconfig\SamUri.php:94
+[09-Sep-2013 18:48:46 UTC] PHP Parse error:  syntax error, unexpected ')' in C:\wamp\www\na\SamScript\SamModl\SamMdl.cls\generel_mdl.php on line 186
+[09-Sep-2013 18:48:46 UTC] PHP Stack trace:
+[09-Sep-2013 18:48:46 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[09-Sep-2013 18:48:46 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[09-Sep-2013 18:48:46 UTC] PHP   3. Sam->__construct() C:\wamp\www\na\Samconfig\SamUri.php:48
+[09-Sep-2013 18:48:46 UTC] PHP   4. SAMSOL_CONTROLLER::SamModel() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:155
+[09-Sep-2013 18:48:46 UTC] PHP Notice:  Use of undefined constant UID - assumed 'UID' in C:\wamp\www\na\Samdriver\mjorFunc.cls.php on line 360
+[09-Sep-2013 18:48:46 UTC] PHP Stack trace:
+[09-Sep-2013 18:48:46 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[09-Sep-2013 18:48:46 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[09-Sep-2013 18:48:46 UTC] PHP   3. Sam->__construct() C:\wamp\www\na\Samconfig\SamUri.php:48
+[09-Sep-2013 18:48:46 UTC] PHP   4. SAMSOL_CONTROLLER::SamModel() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:155
+[09-Sep-2013 18:48:46 UTC] PHP   5. Sam->__destruct() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:0
+[09-Sep-2013 18:48:46 UTC] PHP   6. mjorFunc::SamgetStyle() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:562
+[09-Sep-2013 18:48:46 UTC] PHP Notice:  Use of undefined constant UNM - assumed 'UNM' in C:\wamp\www\na\SamScript\SamVw\SamVw.cls\d_see.php on line 110
+[09-Sep-2013 18:48:46 UTC] PHP Stack trace:
+[09-Sep-2013 18:48:46 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[09-Sep-2013 18:48:46 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[09-Sep-2013 18:48:46 UTC] PHP   3. Sam->__construct() C:\wamp\www\na\Samconfig\SamUri.php:48
+[09-Sep-2013 18:48:46 UTC] PHP   4. SAMSOL_CONTROLLER::SamModel() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:155
+[09-Sep-2013 18:48:46 UTC] PHP   5. Sam->__destruct() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:0
+[09-Sep-2013 18:48:46 UTC] PHP   6. SAMSOL_CONTROLLER::SamSee() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:617
+[09-Sep-2013 18:48:46 UTC] PHP   7. require() C:\wamp\www\na\Samdriver\SamCntrl.cls.php:89
+[09-Sep-2013 18:48:46 UTC] PHP Notice:  Use of undefined constant UNM - assumed 'UNM' in C:\wamp\www\na\SamScript\SamVw\SamVw.cls\d_see.php on line 112
+[09-Sep-2013 18:48:46 UTC] PHP Stack trace:
+[09-Sep-2013 18:48:46 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[09-Sep-2013 18:48:46 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[09-Sep-2013 18:48:46 UTC] PHP   3. Sam->__construct() C:\wamp\www\na\Samconfig\SamUri.php:48
+[09-Sep-2013 18:48:46 UTC] PHP   4. SAMSOL_CONTROLLER::SamModel() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:155
+[09-Sep-2013 18:48:46 UTC] PHP   5. Sam->__destruct() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:0
+[09-Sep-2013 18:48:46 UTC] PHP   6. SAMSOL_CONTROLLER::SamSee() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:617
+[09-Sep-2013 18:48:46 UTC] PHP   7. require() C:\wamp\www\na\Samdriver\SamCntrl.cls.php:89
+[09-Sep-2013 18:48:46 UTC] PHP Notice:  Use of undefined constant UPS - assumed 'UPS' in C:\wamp\www\na\SamScript\SamVw\SamVw.cls\d_see.php on line 114
+[09-Sep-2013 18:48:46 UTC] PHP Stack trace:
+[09-Sep-2013 18:48:46 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[09-Sep-2013 18:48:46 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[09-Sep-2013 18:48:46 UTC] PHP   3. Sam->__construct() C:\wamp\www\na\Samconfig\SamUri.php:48
+[09-Sep-2013 18:48:46 UTC] PHP   4. SAMSOL_CONTROLLER::SamModel() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:155
+[09-Sep-2013 18:48:46 UTC] PHP   5. Sam->__destruct() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:0
+[09-Sep-2013 18:48:46 UTC] PHP   6. SAMSOL_CONTROLLER::SamSee() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:617
+[09-Sep-2013 18:48:46 UTC] PHP   7. require() C:\wamp\www\na\Samdriver\SamCntrl.cls.php:89
+[09-Sep-2013 18:48:46 UTC] PHP Notice:  Use of undefined constant ULV - assumed 'ULV' in C:\wamp\www\na\SamScript\SamVw\SamVw.cls\d_see.php on line 115
+[09-Sep-2013 18:48:46 UTC] PHP Stack trace:
+[09-Sep-2013 18:48:46 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[09-Sep-2013 18:48:46 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[09-Sep-2013 18:48:46 UTC] PHP   3. Sam->__construct() C:\wamp\www\na\Samconfig\SamUri.php:48
+[09-Sep-2013 18:48:46 UTC] PHP   4. SAMSOL_CONTROLLER::SamModel() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:155
+[09-Sep-2013 18:48:46 UTC] PHP   5. Sam->__destruct() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:0
+[09-Sep-2013 18:48:46 UTC] PHP   6. SAMSOL_CONTROLLER::SamSee() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:617
+[09-Sep-2013 18:48:46 UTC] PHP   7. require() C:\wamp\www\na\Samdriver\SamCntrl.cls.php:89
+[09-Sep-2013 18:48:57 UTC] PHP Parse error:  syntax error, unexpected ')' in C:\wamp\www\na\SamScript\SamModl\SamMdl.cls\generel_mdl.php on line 186
+[09-Sep-2013 18:48:57 UTC] PHP Stack trace:
+[09-Sep-2013 18:48:57 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[09-Sep-2013 18:48:57 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[09-Sep-2013 18:48:57 UTC] PHP   3. Sam->__construct() C:\wamp\www\na\Samconfig\SamUri.php:48
+[09-Sep-2013 18:48:57 UTC] PHP   4. SAMSOL_CONTROLLER::SamModel() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:155
+[09-Sep-2013 18:48:57 UTC] PHP Notice:  Use of undefined constant UID - assumed 'UID' in C:\wamp\www\na\Samdriver\mjorFunc.cls.php on line 360
+[09-Sep-2013 18:48:57 UTC] PHP Stack trace:
+[09-Sep-2013 18:48:57 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[09-Sep-2013 18:48:57 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[09-Sep-2013 18:48:57 UTC] PHP   3. Sam->__construct() C:\wamp\www\na\Samconfig\SamUri.php:48
+[09-Sep-2013 18:48:57 UTC] PHP   4. SAMSOL_CONTROLLER::SamModel() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:155
+[09-Sep-2013 18:48:57 UTC] PHP   5. Sam->__destruct() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:0
+[09-Sep-2013 18:48:57 UTC] PHP   6. mjorFunc::SamgetStyle() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:562
+[09-Sep-2013 18:48:57 UTC] PHP Notice:  Use of undefined constant UNM - assumed 'UNM' in C:\wamp\www\na\SamScript\SamVw\SamVw.cls\d_see.php on line 110
+[09-Sep-2013 18:48:57 UTC] PHP Stack trace:
+[09-Sep-2013 18:48:57 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[09-Sep-2013 18:48:57 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[09-Sep-2013 18:48:57 UTC] PHP   3. Sam->__construct() C:\wamp\www\na\Samconfig\SamUri.php:48
+[09-Sep-2013 18:48:57 UTC] PHP   4. SAMSOL_CONTROLLER::SamModel() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:155
+[09-Sep-2013 18:48:57 UTC] PHP   5. Sam->__destruct() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:0
+[09-Sep-2013 18:48:57 UTC] PHP   6. SAMSOL_CONTROLLER::SamSee() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:617
+[09-Sep-2013 18:48:57 UTC] PHP   7. require() C:\wamp\www\na\Samdriver\SamCntrl.cls.php:89
+[09-Sep-2013 18:48:57 UTC] PHP Notice:  Use of undefined constant UNM - assumed 'UNM' in C:\wamp\www\na\SamScript\SamVw\SamVw.cls\d_see.php on line 112
+[09-Sep-2013 18:48:57 UTC] PHP Stack trace:
+[09-Sep-2013 18:48:57 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[09-Sep-2013 18:48:57 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[09-Sep-2013 18:48:57 UTC] PHP   3. Sam->__construct() C:\wamp\www\na\Samconfig\SamUri.php:48
+[09-Sep-2013 18:48:57 UTC] PHP   4. SAMSOL_CONTROLLER::SamModel() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:155
+[09-Sep-2013 18:48:57 UTC] PHP   5. Sam->__destruct() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:0
+[09-Sep-2013 18:48:57 UTC] PHP   6. SAMSOL_CONTROLLER::SamSee() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:617
+[09-Sep-2013 18:48:57 UTC] PHP   7. require() C:\wamp\www\na\Samdriver\SamCntrl.cls.php:89
+[09-Sep-2013 18:48:57 UTC] PHP Notice:  Use of undefined constant UPS - assumed 'UPS' in C:\wamp\www\na\SamScript\SamVw\SamVw.cls\d_see.php on line 114
+[09-Sep-2013 18:48:57 UTC] PHP Stack trace:
+[09-Sep-2013 18:48:57 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[09-Sep-2013 18:48:57 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[09-Sep-2013 18:48:57 UTC] PHP   3. Sam->__construct() C:\wamp\www\na\Samconfig\SamUri.php:48
+[09-Sep-2013 18:48:57 UTC] PHP   4. SAMSOL_CONTROLLER::SamModel() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:155
+[09-Sep-2013 18:48:57 UTC] PHP   5. Sam->__destruct() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:0
+[09-Sep-2013 18:48:57 UTC] PHP   6. SAMSOL_CONTROLLER::SamSee() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:617
+[09-Sep-2013 18:48:57 UTC] PHP   7. require() C:\wamp\www\na\Samdriver\SamCntrl.cls.php:89
+[09-Sep-2013 18:48:57 UTC] PHP Notice:  Use of undefined constant ULV - assumed 'ULV' in C:\wamp\www\na\SamScript\SamVw\SamVw.cls\d_see.php on line 115
+[09-Sep-2013 18:48:57 UTC] PHP Stack trace:
+[09-Sep-2013 18:48:57 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[09-Sep-2013 18:48:57 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[09-Sep-2013 18:48:57 UTC] PHP   3. Sam->__construct() C:\wamp\www\na\Samconfig\SamUri.php:48
+[09-Sep-2013 18:48:57 UTC] PHP   4. SAMSOL_CONTROLLER::SamModel() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:155
+[09-Sep-2013 18:48:57 UTC] PHP   5. Sam->__destruct() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:0
+[09-Sep-2013 18:48:57 UTC] PHP   6. SAMSOL_CONTROLLER::SamSee() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:617
+[09-Sep-2013 18:48:57 UTC] PHP   7. require() C:\wamp\www\na\Samdriver\SamCntrl.cls.php:89
+[11-Sep-2013 09:07:36 UTC] PHP Notice:  Undefined index: opc in C:\wamp\www\na\SamSkins\stl\ar_21.php on line 2
+[11-Sep-2013 09:07:36 UTC] PHP Stack trace:
+[11-Sep-2013 09:07:36 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[11-Sep-2013 09:07:36 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[11-Sep-2013 09:07:36 UTC] PHP   3. call_user_func_array() C:\wamp\www\na\Samconfig\SamUri.php:94
+[11-Sep-2013 09:07:36 UTC] PHP   4. expget->css() C:\wamp\www\na\Samconfig\SamUri.php:94
+[11-Sep-2013 09:07:36 UTC] PHP   5. require() C:\wamp\www\na\SamScript\SamContrl\expget.cls.php:90
+[12-Sep-2013 15:17:32 UTC] PHP Fatal error:  Call to undefined function xsetrawcookie() in C:\wamp\www\na\SamScript\SamContrl\sam.cls.php on line 325
+[12-Sep-2013 15:17:32 UTC] PHP Stack trace:
+[12-Sep-2013 15:17:32 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[12-Sep-2013 15:17:32 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[12-Sep-2013 15:17:32 UTC] PHP   3. call_user_func_array() C:\wamp\www\na\Samconfig\SamUri.php:94
+[12-Sep-2013 15:17:32 UTC] PHP   4. Sam->logout() C:\wamp\www\na\Samconfig\SamUri.php:94
+[14-Sep-2013 11:28:42 UTC] PHP Notice:  Undefined variable: SelCtObject in C:\wamp\www\na\SamScript\SamModl\SamMdl.cls\editor_mdl.php on line 307
+[14-Sep-2013 11:28:42 UTC] PHP Stack trace:
+[14-Sep-2013 11:28:42 UTC] PHP   1. Sam->__destruct() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:0
+[14-Sep-2013 11:28:42 UTC] PHP   2. eval() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:553
+[14-Sep-2013 11:28:42 UTC] PHP   3. require() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php(553) : eval()'d code:1
+[14-Sep-2013 11:28:42 UTC] PHP   4. editor::samSendMail() C:\wamp\www\na\SamScript\Samfun\edtiorfun.php:441
+[14-Sep-2013 11:28:42 UTC] PHP Notice:  Trying to get property of non-object in C:\wamp\www\na\SamScript\SamModl\SamMdl.cls\editor_mdl.php on line 307
+[14-Sep-2013 11:28:42 UTC] PHP Stack trace:
+[14-Sep-2013 11:28:42 UTC] PHP   1. Sam->__destruct() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:0
+[14-Sep-2013 11:28:42 UTC] PHP   2. eval() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:553
+[14-Sep-2013 11:28:42 UTC] PHP   3. require() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php(553) : eval()'d code:1
+[14-Sep-2013 11:28:42 UTC] PHP   4. editor::samSendMail() C:\wamp\www\na\SamScript\Samfun\edtiorfun.php:441
+[14-Sep-2013 11:32:23 UTC] PHP Notice:  Undefined variable: SelCtObject in C:\wamp\www\na\SamScript\SamModl\SamMdl.cls\editor_mdl.php on line 307
+[14-Sep-2013 11:32:23 UTC] PHP Stack trace:
+[14-Sep-2013 11:32:23 UTC] PHP   1. Sam->__destruct() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:0
+[14-Sep-2013 11:32:23 UTC] PHP   2. eval() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:553
+[14-Sep-2013 11:32:23 UTC] PHP   3. require() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php(553) : eval()'d code:1
+[14-Sep-2013 11:32:23 UTC] PHP   4. editor::samSendMail() C:\wamp\www\na\SamScript\Samfun\edtiorfun.php:441
+[14-Sep-2013 11:32:23 UTC] PHP Notice:  Trying to get property of non-object in C:\wamp\www\na\SamScript\SamModl\SamMdl.cls\editor_mdl.php on line 307
+[14-Sep-2013 11:32:23 UTC] PHP Stack trace:
+[14-Sep-2013 11:32:23 UTC] PHP   1. Sam->__destruct() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:0
+[14-Sep-2013 11:32:23 UTC] PHP   2. eval() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:553
+[14-Sep-2013 11:32:23 UTC] PHP   3. require() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php(553) : eval()'d code:1
+[14-Sep-2013 11:32:23 UTC] PHP   4. editor::samSendMail() C:\wamp\www\na\SamScript\Samfun\edtiorfun.php:441
+[14-Sep-2013 11:35:27 UTC] PHP Notice:  Undefined variable: SelCtObject in C:\wamp\www\na\SamScript\SamModl\SamMdl.cls\editor_mdl.php on line 307
+[14-Sep-2013 11:35:27 UTC] PHP Stack trace:
+[14-Sep-2013 11:35:27 UTC] PHP   1. Sam->__destruct() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:0
+[14-Sep-2013 11:35:27 UTC] PHP   2. eval() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:553
+[14-Sep-2013 11:35:27 UTC] PHP   3. require() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php(553) : eval()'d code:1
+[14-Sep-2013 11:35:27 UTC] PHP   4. editor::samSendMail() C:\wamp\www\na\SamScript\Samfun\edtiorfun.php:441
+[14-Sep-2013 11:35:27 UTC] PHP Notice:  Trying to get property of non-object in C:\wamp\www\na\SamScript\SamModl\SamMdl.cls\editor_mdl.php on line 307
+[14-Sep-2013 11:35:27 UTC] PHP Stack trace:
+[14-Sep-2013 11:35:27 UTC] PHP   1. Sam->__destruct() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:0
+[14-Sep-2013 11:35:27 UTC] PHP   2. eval() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:553
+[14-Sep-2013 11:35:27 UTC] PHP   3. require() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php(553) : eval()'d code:1
+[14-Sep-2013 11:35:27 UTC] PHP   4. editor::samSendMail() C:\wamp\www\na\SamScript\Samfun\edtiorfun.php:441
+[14-Sep-2013 11:35:45 UTC] PHP Notice:  Undefined variable: SelCtObject in C:\wamp\www\na\SamScript\SamModl\SamMdl.cls\editor_mdl.php on line 307
+[14-Sep-2013 11:35:45 UTC] PHP Stack trace:
+[14-Sep-2013 11:35:45 UTC] PHP   1. Sam->__destruct() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:0
+[14-Sep-2013 11:35:45 UTC] PHP   2. eval() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:553
+[14-Sep-2013 11:35:45 UTC] PHP   3. require() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php(553) : eval()'d code:1
+[14-Sep-2013 11:35:45 UTC] PHP   4. editor::samSendMail() C:\wamp\www\na\SamScript\Samfun\edtiorfun.php:441
+[14-Sep-2013 11:35:45 UTC] PHP Notice:  Trying to get property of non-object in C:\wamp\www\na\SamScript\SamModl\SamMdl.cls\editor_mdl.php on line 307
+[14-Sep-2013 11:35:45 UTC] PHP Stack trace:
+[14-Sep-2013 11:35:45 UTC] PHP   1. Sam->__destruct() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:0
+[14-Sep-2013 11:35:45 UTC] PHP   2. eval() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:553
+[14-Sep-2013 11:35:45 UTC] PHP   3. require() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php(553) : eval()'d code:1
+[14-Sep-2013 11:35:45 UTC] PHP   4. editor::samSendMail() C:\wamp\www\na\SamScript\Samfun\edtiorfun.php:441
+[14-Sep-2013 11:36:27 UTC] PHP Notice:  Undefined variable: SelCtObject in C:\wamp\www\na\SamScript\SamModl\SamMdl.cls\editor_mdl.php on line 307
+[14-Sep-2013 11:36:27 UTC] PHP Stack trace:
+[14-Sep-2013 11:36:27 UTC] PHP   1. Sam->__destruct() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:0
+[14-Sep-2013 11:36:27 UTC] PHP   2. eval() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:553
+[14-Sep-2013 11:36:27 UTC] PHP   3. require() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php(553) : eval()'d code:1
+[14-Sep-2013 11:36:27 UTC] PHP   4. editor::samSendMail() C:\wamp\www\na\SamScript\Samfun\edtiorfun.php:441
+[14-Sep-2013 11:36:27 UTC] PHP Notice:  Trying to get property of non-object in C:\wamp\www\na\SamScript\SamModl\SamMdl.cls\editor_mdl.php on line 307
+[14-Sep-2013 11:36:27 UTC] PHP Stack trace:
+[14-Sep-2013 11:36:27 UTC] PHP   1. Sam->__destruct() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:0
+[14-Sep-2013 11:36:27 UTC] PHP   2. eval() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:553
+[14-Sep-2013 11:36:27 UTC] PHP   3. require() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php(553) : eval()'d code:1
+[14-Sep-2013 11:36:27 UTC] PHP   4. editor::samSendMail() C:\wamp\www\na\SamScript\Samfun\edtiorfun.php:441
+[14-Sep-2013 11:40:04 UTC] PHP Notice:  Undefined variable: SelCtObject in C:\wamp\www\na\SamScript\SamModl\SamMdl.cls\editor_mdl.php on line 307
+[14-Sep-2013 11:40:04 UTC] PHP Stack trace:
+[14-Sep-2013 11:40:04 UTC] PHP   1. Sam->__destruct() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:0
+[14-Sep-2013 11:40:04 UTC] PHP   2. eval() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:553
+[14-Sep-2013 11:40:04 UTC] PHP   3. require() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php(553) : eval()'d code:1
+[14-Sep-2013 11:40:04 UTC] PHP   4. editor::samSendMail() C:\wamp\www\na\SamScript\Samfun\edtiorfun.php:441
+[14-Sep-2013 11:40:04 UTC] PHP Notice:  Trying to get property of non-object in C:\wamp\www\na\SamScript\SamModl\SamMdl.cls\editor_mdl.php on line 307
+[14-Sep-2013 11:40:04 UTC] PHP Stack trace:
+[14-Sep-2013 11:40:04 UTC] PHP   1. Sam->__destruct() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:0
+[14-Sep-2013 11:40:04 UTC] PHP   2. eval() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:553
+[14-Sep-2013 11:40:04 UTC] PHP   3. require() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php(553) : eval()'d code:1
+[14-Sep-2013 11:40:04 UTC] PHP   4. editor::samSendMail() C:\wamp\www\na\SamScript\Samfun\edtiorfun.php:441
+[14-Sep-2013 12:51:55 UTC] PHP Notice:  Undefined variable: Sam_Tpc_Arg in C:\wamp\www\na\SamScript\Samfun\tpcfun.php on line 52
+[14-Sep-2013 12:51:55 UTC] PHP Stack trace:
+[14-Sep-2013 12:51:55 UTC] PHP   1. Sam->__destruct() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:0
+[14-Sep-2013 12:51:55 UTC] PHP   2. eval() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:553
+[14-Sep-2013 12:51:55 UTC] PHP   3. require() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php(553) : eval()'d code:1
+[14-Sep-2013 12:55:48 UTC] PHP Notice:  Trying to get property of non-object in C:\wamp\www\na\SamScript\SamModl\SamMdl.cls\member_mdl.php on line 48
+[14-Sep-2013 12:55:48 UTC] PHP Stack trace:
+[14-Sep-2013 12:55:48 UTC] PHP   1. Sam->__destruct() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:0
+[14-Sep-2013 12:55:48 UTC] PHP   2. eval() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:553
+[14-Sep-2013 12:55:48 UTC] PHP   3. require() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php(553) : eval()'d code:1
+[14-Sep-2013 12:55:48 UTC] PHP   4. member::SamGetMemberInfo() C:\wamp\www\na\SamScript\Samfun\usrfun.php:19
+[14-Sep-2013 12:55:48 UTC] PHP Notice:  Trying to get property of non-object in C:\wamp\www\na\SamScript\SamModl\SamMdl.cls\member_mdl.php on line 51
+[14-Sep-2013 12:55:48 UTC] PHP Stack trace:
+[14-Sep-2013 12:55:48 UTC] PHP   1. Sam->__destruct() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:0
+[14-Sep-2013 12:55:48 UTC] PHP   2. eval() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:553
+[14-Sep-2013 12:55:48 UTC] PHP   3. require() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php(553) : eval()'d code:1
+[14-Sep-2013 12:55:48 UTC] PHP   4. member::SamGetMemberInfo() C:\wamp\www\na\SamScript\Samfun\usrfun.php:19
+[14-Sep-2013 12:55:48 UTC] PHP Notice:  Trying to get property of non-object in C:\wamp\www\na\SamScript\SamModl\SamMdl.cls\member_mdl.php on line 54
+[14-Sep-2013 12:55:48 UTC] PHP Stack trace:
+[14-Sep-2013 12:55:48 UTC] PHP   1. Sam->__destruct() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:0
+[14-Sep-2013 12:55:48 UTC] PHP   2. eval() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:553
+[14-Sep-2013 12:55:48 UTC] PHP   3. require() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php(553) : eval()'d code:1
+[14-Sep-2013 12:55:48 UTC] PHP   4. member::SamGetMemberInfo() C:\wamp\www\na\SamScript\Samfun\usrfun.php:19
+[14-Sep-2013 12:55:48 UTC] PHP Notice:  Trying to get property of non-object in C:\wamp\www\na\SamScript\SamModl\SamMdl.cls\member_mdl.php on line 57
+[14-Sep-2013 12:55:48 UTC] PHP Stack trace:
+[14-Sep-2013 12:55:48 UTC] PHP   1. Sam->__destruct() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:0
+[14-Sep-2013 12:55:48 UTC] PHP   2. eval() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:553
+[14-Sep-2013 12:55:48 UTC] PHP   3. require() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php(553) : eval()'d code:1
+[14-Sep-2013 12:55:48 UTC] PHP   4. member::SamGetMemberInfo() C:\wamp\www\na\SamScript\Samfun\usrfun.php:19
+[14-Sep-2013 12:55:48 UTC] PHP Notice:  Trying to get property of non-object in C:\wamp\www\na\SamScript\SamModl\SamMdl.cls\member_mdl.php on line 60
+[14-Sep-2013 12:55:48 UTC] PHP Stack trace:
+[14-Sep-2013 12:55:48 UTC] PHP   1. Sam->__destruct() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:0
+[14-Sep-2013 12:55:48 UTC] PHP   2. eval() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:553
+[14-Sep-2013 12:55:48 UTC] PHP   3. require() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php(553) : eval()'d code:1
+[14-Sep-2013 12:55:48 UTC] PHP   4. member::SamGetMemberInfo() C:\wamp\www\na\SamScript\Samfun\usrfun.php:19
+[14-Sep-2013 12:55:48 UTC] PHP Notice:  Trying to get property of non-object in C:\wamp\www\na\SamScript\SamModl\SamMdl.cls\member_mdl.php on line 63
+[14-Sep-2013 12:55:48 UTC] PHP Stack trace:
+[14-Sep-2013 12:55:48 UTC] PHP   1. Sam->__destruct() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:0
+[14-Sep-2013 12:55:48 UTC] PHP   2. eval() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:553
+[14-Sep-2013 12:55:48 UTC] PHP   3. require() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php(553) : eval()'d code:1
+[14-Sep-2013 12:55:48 UTC] PHP   4. member::SamGetMemberInfo() C:\wamp\www\na\SamScript\Samfun\usrfun.php:19
+[14-Sep-2013 12:55:48 UTC] PHP Notice:  Trying to get property of non-object in C:\wamp\www\na\SamScript\SamModl\SamMdl.cls\member_mdl.php on line 66
+[14-Sep-2013 12:55:48 UTC] PHP Stack trace:
+[14-Sep-2013 12:55:48 UTC] PHP   1. Sam->__destruct() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:0
+[14-Sep-2013 12:55:48 UTC] PHP   2. eval() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:553
+[14-Sep-2013 12:55:48 UTC] PHP   3. require() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php(553) : eval()'d code:1
+[14-Sep-2013 12:55:48 UTC] PHP   4. member::SamGetMemberInfo() C:\wamp\www\na\SamScript\Samfun\usrfun.php:19
+[14-Sep-2013 12:55:48 UTC] PHP Notice:  Trying to get property of non-object in C:\wamp\www\na\SamScript\SamModl\SamMdl.cls\member_mdl.php on line 69
+[14-Sep-2013 12:55:48 UTC] PHP Stack trace:
+[14-Sep-2013 12:55:48 UTC] PHP   1. Sam->__destruct() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:0
+[14-Sep-2013 12:55:48 UTC] PHP   2. eval() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:553
+[14-Sep-2013 12:55:48 UTC] PHP   3. require() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php(553) : eval()'d code:1
+[14-Sep-2013 12:55:48 UTC] PHP   4. member::SamGetMemberInfo() C:\wamp\www\na\SamScript\Samfun\usrfun.php:19
+[14-Sep-2013 12:55:48 UTC] PHP Notice:  Trying to get property of non-object in C:\wamp\www\na\SamScript\SamModl\SamMdl.cls\member_mdl.php on line 69
+[14-Sep-2013 12:55:48 UTC] PHP Stack trace:
+[14-Sep-2013 12:55:48 UTC] PHP   1. Sam->__destruct() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:0
+[14-Sep-2013 12:55:48 UTC] PHP   2. eval() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:553
+[14-Sep-2013 12:55:48 UTC] PHP   3. require() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php(553) : eval()'d code:1
+[14-Sep-2013 12:55:48 UTC] PHP   4. member::SamGetMemberInfo() C:\wamp\www\na\SamScript\Samfun\usrfun.php:19
+[14-Sep-2013 12:55:48 UTC] PHP Notice:  Trying to get property of non-object in C:\wamp\www\na\SamScript\SamModl\SamMdl.cls\member_mdl.php on line 72
+[14-Sep-2013 12:55:48 UTC] PHP Stack trace:
+[14-Sep-2013 12:55:48 UTC] PHP   1. Sam->__destruct() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:0
+[14-Sep-2013 12:55:48 UTC] PHP   2. eval() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:553
+[14-Sep-2013 12:55:48 UTC] PHP   3. require() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php(553) : eval()'d code:1
+[14-Sep-2013 12:55:48 UTC] PHP   4. member::SamGetMemberInfo() C:\wamp\www\na\SamScript\Samfun\usrfun.php:19
+[14-Sep-2013 12:55:48 UTC] PHP Notice:  Trying to get property of non-object in C:\wamp\www\na\SamScript\SamModl\SamMdl.cls\member_mdl.php on line 75
+[14-Sep-2013 12:55:48 UTC] PHP Stack trace:
+[14-Sep-2013 12:55:48 UTC] PHP   1. Sam->__destruct() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:0
+[14-Sep-2013 12:55:48 UTC] PHP   2. eval() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:553
+[14-Sep-2013 12:55:48 UTC] PHP   3. require() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php(553) : eval()'d code:1
+[14-Sep-2013 12:55:48 UTC] PHP   4. member::SamGetMemberInfo() C:\wamp\www\na\SamScript\Samfun\usrfun.php:19
+[14-Sep-2013 12:55:48 UTC] PHP Notice:  Trying to get property of non-object in C:\wamp\www\na\SamScript\SamModl\SamMdl.cls\member_mdl.php on line 78
+[14-Sep-2013 12:55:48 UTC] PHP Stack trace:
+[14-Sep-2013 12:55:48 UTC] PHP   1. Sam->__destruct() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:0
+[14-Sep-2013 12:55:48 UTC] PHP   2. eval() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:553
+[14-Sep-2013 12:55:48 UTC] PHP   3. require() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php(553) : eval()'d code:1
+[14-Sep-2013 12:55:48 UTC] PHP   4. member::SamGetMemberInfo() C:\wamp\www\na\SamScript\Samfun\usrfun.php:19
+[14-Sep-2013 12:55:48 UTC] PHP Notice:  Trying to get property of non-object in C:\wamp\www\na\SamScript\SamModl\SamMdl.cls\member_mdl.php on line 81
+[14-Sep-2013 12:55:48 UTC] PHP Stack trace:
+[14-Sep-2013 12:55:48 UTC] PHP   1. Sam->__destruct() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:0
+[14-Sep-2013 12:55:48 UTC] PHP   2. eval() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:553
+[14-Sep-2013 12:55:48 UTC] PHP   3. require() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php(553) : eval()'d code:1
+[14-Sep-2013 12:55:48 UTC] PHP   4. member::SamGetMemberInfo() C:\wamp\www\na\SamScript\Samfun\usrfun.php:19
+[14-Sep-2013 12:55:48 UTC] PHP Notice:  Trying to get property of non-object in C:\wamp\www\na\SamScript\SamModl\SamMdl.cls\member_mdl.php on line 86
+[14-Sep-2013 12:55:48 UTC] PHP Stack trace:
+[14-Sep-2013 12:55:48 UTC] PHP   1. Sam->__destruct() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:0
+[14-Sep-2013 12:55:48 UTC] PHP   2. eval() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:553
+[14-Sep-2013 12:55:48 UTC] PHP   3. require() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php(553) : eval()'d code:1
+[14-Sep-2013 12:55:48 UTC] PHP   4. member::SamGetMemberInfo() C:\wamp\www\na\SamScript\Samfun\usrfun.php:19
+[14-Sep-2013 12:55:48 UTC] PHP Notice:  Trying to get property of non-object in C:\wamp\www\na\SamScript\SamModl\SamMdl.cls\member_mdl.php on line 103
+[14-Sep-2013 12:55:48 UTC] PHP Stack trace:
+[14-Sep-2013 12:55:48 UTC] PHP   1. Sam->__destruct() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:0
+[14-Sep-2013 12:55:48 UTC] PHP   2. eval() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:553
+[14-Sep-2013 12:55:48 UTC] PHP   3. require() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php(553) : eval()'d code:1
+[14-Sep-2013 12:55:48 UTC] PHP   4. member::SamGetMemberInfo() C:\wamp\www\na\SamScript\Samfun\usrfun.php:19
+[14-Sep-2013 12:55:48 UTC] PHP Notice:  Trying to get property of non-object in C:\wamp\www\na\SamScript\SamModl\SamMdl.cls\member_mdl.php on line 106
+[14-Sep-2013 12:55:48 UTC] PHP Stack trace:
+[14-Sep-2013 12:55:48 UTC] PHP   1. Sam->__destruct() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:0
+[14-Sep-2013 12:55:48 UTC] PHP   2. eval() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:553
+[14-Sep-2013 12:55:48 UTC] PHP   3. require() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php(553) : eval()'d code:1
+[14-Sep-2013 12:55:48 UTC] PHP   4. member::SamGetMemberInfo() C:\wamp\www\na\SamScript\Samfun\usrfun.php:19
+[14-Sep-2013 12:55:48 UTC] PHP Notice:  Trying to get property of non-object in C:\wamp\www\na\SamScript\SamModl\SamMdl.cls\member_mdl.php on line 111
+[14-Sep-2013 12:55:48 UTC] PHP Stack trace:
+[14-Sep-2013 12:55:48 UTC] PHP   1. Sam->__destruct() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:0
+[14-Sep-2013 12:55:48 UTC] PHP   2. eval() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:553
+[14-Sep-2013 12:55:48 UTC] PHP   3. require() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php(553) : eval()'d code:1
+[14-Sep-2013 12:55:48 UTC] PHP   4. member::SamGetMemberInfo() C:\wamp\www\na\SamScript\Samfun\usrfun.php:19
+[14-Sep-2013 12:55:48 UTC] PHP Notice:  Trying to get property of non-object in C:\wamp\www\na\SamScript\SamModl\SamMdl.cls\member_mdl.php on line 114
+[14-Sep-2013 12:55:48 UTC] PHP Stack trace:
+[14-Sep-2013 12:55:48 UTC] PHP   1. Sam->__destruct() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:0
+[14-Sep-2013 12:55:48 UTC] PHP   2. eval() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:553
+[14-Sep-2013 12:55:48 UTC] PHP   3. require() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php(553) : eval()'d code:1
+[14-Sep-2013 12:55:48 UTC] PHP   4. member::SamGetMemberInfo() C:\wamp\www\na\SamScript\Samfun\usrfun.php:19
+[14-Sep-2013 17:12:50 UTC] PHP Notice:  Undefined variable: time_zone in C:\wamp\www\na\SamScript\SamContrl\sam.cls.php on line 163
+[14-Sep-2013 17:12:50 UTC] PHP Stack trace:
+[14-Sep-2013 17:12:50 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[14-Sep-2013 17:12:50 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[14-Sep-2013 17:12:50 UTC] PHP   3. Sam->__construct() C:\wamp\www\na\Samconfig\SamUri.php:48
+[14-Sep-2013 17:21:21 UTC] PHP Fatal error:  Class 'sitemap.xml' not found in C:\wamp\www\na\Samconfig\SamUri.php on line 48
+[14-Sep-2013 17:21:21 UTC] PHP Stack trace:
+[14-Sep-2013 17:21:21 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[14-Sep-2013 17:21:21 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[14-Sep-2013 17:21:43 UTC] PHP Parse error:  syntax error, unexpected '.', expecting '{' in C:\wamp\www\na\SamScript\SamContrl\sitemap.xml.cls.php on line 15
+[14-Sep-2013 17:21:43 UTC] PHP Stack trace:
+[14-Sep-2013 17:21:43 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[14-Sep-2013 17:21:43 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[14-Sep-2013 17:27:29 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\wamp\www\na\SamScript\SamContrl\sitemap_sam.cls.php on line 70
+[14-Sep-2013 17:27:29 UTC] PHP Stack trace:
+[14-Sep-2013 17:27:29 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[14-Sep-2013 17:27:29 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[14-Sep-2013 17:27:29 UTC] PHP   3. call_user_func_array() C:\wamp\www\na\Samconfig\SamUri.php:94
+[14-Sep-2013 17:27:29 UTC] PHP   4. sitemap_sam->index() C:\wamp\www\na\Samconfig\SamUri.php:94
+[14-Sep-2013 17:27:29 UTC] PHP   5. mysql_fetch_array() C:\wamp\www\na\SamScript\SamContrl\sitemap_sam.cls.php:70
+[14-Sep-2013 17:27:29 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\wamp\www\na\SamScript\SamContrl\sitemap_sam.cls.php on line 81
+[14-Sep-2013 17:27:29 UTC] PHP Stack trace:
+[14-Sep-2013 17:27:29 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[14-Sep-2013 17:27:29 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[14-Sep-2013 17:27:29 UTC] PHP   3. call_user_func_array() C:\wamp\www\na\Samconfig\SamUri.php:94
+[14-Sep-2013 17:27:29 UTC] PHP   4. sitemap_sam->index() C:\wamp\www\na\Samconfig\SamUri.php:94
+[14-Sep-2013 17:27:29 UTC] PHP   5. mysql_fetch_array() C:\wamp\www\na\SamScript\SamContrl\sitemap_sam.cls.php:81
+[14-Sep-2013 17:27:48 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\wamp\www\na\SamScript\SamContrl\sitemap_sam.cls.php on line 70
+[14-Sep-2013 17:27:48 UTC] PHP Stack trace:
+[14-Sep-2013 17:27:48 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[14-Sep-2013 17:27:48 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[14-Sep-2013 17:27:48 UTC] PHP   3. call_user_func_array() C:\wamp\www\na\Samconfig\SamUri.php:94
+[14-Sep-2013 17:27:48 UTC] PHP   4. sitemap_sam->index() C:\wamp\www\na\Samconfig\SamUri.php:94
+[14-Sep-2013 17:27:48 UTC] PHP   5. mysql_fetch_array() C:\wamp\www\na\SamScript\SamContrl\sitemap_sam.cls.php:70
+[14-Sep-2013 17:27:48 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\wamp\www\na\SamScript\SamContrl\sitemap_sam.cls.php on line 81
+[14-Sep-2013 17:27:48 UTC] PHP Stack trace:
+[14-Sep-2013 17:27:48 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[14-Sep-2013 17:27:48 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[14-Sep-2013 17:27:48 UTC] PHP   3. call_user_func_array() C:\wamp\www\na\Samconfig\SamUri.php:94
+[14-Sep-2013 17:27:48 UTC] PHP   4. sitemap_sam->index() C:\wamp\www\na\Samconfig\SamUri.php:94
+[14-Sep-2013 17:27:48 UTC] PHP   5. mysql_fetch_array() C:\wamp\www\na\SamScript\SamContrl\sitemap_sam.cls.php:81
+[14-Sep-2013 17:29:32 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\wamp\www\na\SamScript\SamContrl\sitemap_sam.cls.php on line 70
+[14-Sep-2013 17:29:32 UTC] PHP Stack trace:
+[14-Sep-2013 17:29:32 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[14-Sep-2013 17:29:32 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[14-Sep-2013 17:29:32 UTC] PHP   3. call_user_func_array() C:\wamp\www\na\Samconfig\SamUri.php:94
+[14-Sep-2013 17:29:32 UTC] PHP   4. sitemap_sam->index() C:\wamp\www\na\Samconfig\SamUri.php:94
+[14-Sep-2013 17:29:32 UTC] PHP   5. mysql_fetch_array() C:\wamp\www\na\SamScript\SamContrl\sitemap_sam.cls.php:70
+[14-Sep-2013 17:29:32 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\wamp\www\na\SamScript\SamContrl\sitemap_sam.cls.php on line 81
+[14-Sep-2013 17:29:32 UTC] PHP Stack trace:
+[14-Sep-2013 17:29:32 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[14-Sep-2013 17:29:32 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[14-Sep-2013 17:29:32 UTC] PHP   3. call_user_func_array() C:\wamp\www\na\Samconfig\SamUri.php:94
+[14-Sep-2013 17:29:32 UTC] PHP   4. sitemap_sam->index() C:\wamp\www\na\Samconfig\SamUri.php:94
+[14-Sep-2013 17:29:32 UTC] PHP   5. mysql_fetch_array() C:\wamp\www\na\SamScript\SamContrl\sitemap_sam.cls.php:81
+[14-Sep-2013 17:30:09 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\wamp\www\na\SamScript\SamContrl\sitemap_sam.cls.php on line 70
+[14-Sep-2013 17:30:09 UTC] PHP Stack trace:
+[14-Sep-2013 17:30:09 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[14-Sep-2013 17:30:09 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[14-Sep-2013 17:30:09 UTC] PHP   3. call_user_func_array() C:\wamp\www\na\Samconfig\SamUri.php:94
+[14-Sep-2013 17:30:09 UTC] PHP   4. sitemap_sam->index() C:\wamp\www\na\Samconfig\SamUri.php:94
+[14-Sep-2013 17:30:09 UTC] PHP   5. mysql_fetch_array() C:\wamp\www\na\SamScript\SamContrl\sitemap_sam.cls.php:70
+[14-Sep-2013 17:30:09 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\wamp\www\na\SamScript\SamContrl\sitemap_sam.cls.php on line 81
+[14-Sep-2013 17:30:09 UTC] PHP Stack trace:
+[14-Sep-2013 17:30:09 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[14-Sep-2013 17:30:09 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[14-Sep-2013 17:30:09 UTC] PHP   3. call_user_func_array() C:\wamp\www\na\Samconfig\SamUri.php:94
+[14-Sep-2013 17:30:09 UTC] PHP   4. sitemap_sam->index() C:\wamp\www\na\Samconfig\SamUri.php:94
+[14-Sep-2013 17:30:09 UTC] PHP   5. mysql_fetch_array() C:\wamp\www\na\SamScript\SamContrl\sitemap_sam.cls.php:81
+[14-Sep-2013 17:30:29 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in C:\wamp\www\na\SamScript\SamContrl\sitemap_sam.cls.php on line 70
+[14-Sep-2013 17:30:29 UTC] PHP Stack trace:
+[14-Sep-2013 17:30:29 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[14-Sep-2013 17:30:29 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[14-Sep-2013 17:30:29 UTC] PHP   3. call_user_func_array() C:\wamp\www\na\Samconfig\SamUri.php:94
+[14-Sep-2013 17:30:29 UTC] PHP   4. sitemap_sam->index() C:\wamp\www\na\Samconfig\SamUri.php:94
+[14-Sep-2013 17:30:29 UTC] PHP   5. mysql_fetch_object() C:\wamp\www\na\SamScript\SamContrl\sitemap_sam.cls.php:70
+[14-Sep-2013 17:30:29 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\wamp\www\na\SamScript\SamContrl\sitemap_sam.cls.php on line 81
+[14-Sep-2013 17:30:29 UTC] PHP Stack trace:
+[14-Sep-2013 17:30:29 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[14-Sep-2013 17:30:29 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[14-Sep-2013 17:30:29 UTC] PHP   3. call_user_func_array() C:\wamp\www\na\Samconfig\SamUri.php:94
+[14-Sep-2013 17:30:29 UTC] PHP   4. sitemap_sam->index() C:\wamp\www\na\Samconfig\SamUri.php:94
+[14-Sep-2013 17:30:29 UTC] PHP   5. mysql_fetch_array() C:\wamp\www\na\SamScript\SamContrl\sitemap_sam.cls.php:81
+[14-Sep-2013 17:31:33 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\wamp\www\na\SamScript\SamContrl\sitemap_sam.cls.php on line 70
+[14-Sep-2013 17:31:33 UTC] PHP Stack trace:
+[14-Sep-2013 17:31:33 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[14-Sep-2013 17:31:33 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[14-Sep-2013 17:31:33 UTC] PHP   3. call_user_func_array() C:\wamp\www\na\Samconfig\SamUri.php:94
+[14-Sep-2013 17:31:33 UTC] PHP   4. sitemap_sam->index() C:\wamp\www\na\Samconfig\SamUri.php:94
+[14-Sep-2013 17:31:33 UTC] PHP   5. mysql_fetch_array() C:\wamp\www\na\SamScript\SamContrl\sitemap_sam.cls.php:70
+[14-Sep-2013 17:31:33 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\wamp\www\na\SamScript\SamContrl\sitemap_sam.cls.php on line 81
+[14-Sep-2013 17:31:33 UTC] PHP Stack trace:
+[14-Sep-2013 17:31:33 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[14-Sep-2013 17:31:33 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[14-Sep-2013 17:31:33 UTC] PHP   3. call_user_func_array() C:\wamp\www\na\Samconfig\SamUri.php:94
+[14-Sep-2013 17:31:33 UTC] PHP   4. sitemap_sam->index() C:\wamp\www\na\Samconfig\SamUri.php:94
+[14-Sep-2013 17:31:33 UTC] PHP   5. mysql_fetch_array() C:\wamp\www\na\SamScript\SamContrl\sitemap_sam.cls.php:81
+[14-Sep-2013 17:32:28 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in C:\wamp\www\na\SamScript\SamContrl\sitemap_sam.cls.php on line 70
+[14-Sep-2013 17:32:28 UTC] PHP Stack trace:
+[14-Sep-2013 17:32:28 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[14-Sep-2013 17:32:28 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[14-Sep-2013 17:32:28 UTC] PHP   3. call_user_func_array() C:\wamp\www\na\Samconfig\SamUri.php:94
+[14-Sep-2013 17:32:28 UTC] PHP   4. sitemap_sam->index() C:\wamp\www\na\Samconfig\SamUri.php:94
+[14-Sep-2013 17:32:28 UTC] PHP   5. mysql_fetch_array() C:\wamp\www\na\SamScript\SamContrl\sitemap_sam.cls.php:70
+[14-Sep-2013 17:32:28 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\wamp\www\na\SamScript\SamContrl\sitemap_sam.cls.php on line 81
+[14-Sep-2013 17:32:28 UTC] PHP Stack trace:
+[14-Sep-2013 17:32:28 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[14-Sep-2013 17:32:28 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[14-Sep-2013 17:32:28 UTC] PHP   3. call_user_func_array() C:\wamp\www\na\Samconfig\SamUri.php:94
+[14-Sep-2013 17:32:28 UTC] PHP   4. sitemap_sam->index() C:\wamp\www\na\Samconfig\SamUri.php:94
+[14-Sep-2013 17:32:28 UTC] PHP   5. mysql_fetch_array() C:\wamp\www\na\SamScript\SamContrl\sitemap_sam.cls.php:81
+[14-Sep-2013 17:36:20 UTC] PHP Parse error:  syntax error, unexpected ',' in C:\wamp\www\na\SamScript\SamContrl\sitemap_sam.cls.php on line 56
+[14-Sep-2013 17:36:20 UTC] PHP Stack trace:
+[14-Sep-2013 17:36:20 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[14-Sep-2013 17:36:20 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[14-Sep-2013 18:05:01 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\wamp\www\na\SamScript\SamContrl\sitemap_sam.cls.php on line 91
+[14-Sep-2013 18:05:01 UTC] PHP Stack trace:
+[14-Sep-2013 18:05:01 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[14-Sep-2013 18:05:01 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[14-Sep-2013 18:05:26 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in C:\wamp\www\na\SamScript\SamContrl\sitemap_sam.cls.php on line 90
+[14-Sep-2013 18:05:26 UTC] PHP Stack trace:
+[14-Sep-2013 18:05:26 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[14-Sep-2013 18:05:26 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[14-Sep-2013 18:05:26 UTC] PHP   3. call_user_func_array() C:\wamp\www\na\Samconfig\SamUri.php:94
+[14-Sep-2013 18:05:26 UTC] PHP   4. sitemap_sam->index() C:\wamp\www\na\Samconfig\SamUri.php:94
+[14-Sep-2013 18:05:26 UTC] PHP   5. mysql_num_rows() C:\wamp\www\na\SamScript\SamContrl\sitemap_sam.cls.php:90
+[14-Sep-2013 18:05:27 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in C:\wamp\www\na\SamScript\SamContrl\sitemap_sam.cls.php on line 90
+[14-Sep-2013 18:05:27 UTC] PHP Stack trace:
+[14-Sep-2013 18:05:27 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[14-Sep-2013 18:05:27 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[14-Sep-2013 18:05:27 UTC] PHP   3. call_user_func_array() C:\wamp\www\na\Samconfig\SamUri.php:94
+[14-Sep-2013 18:05:27 UTC] PHP   4. sitemap_sam->index() C:\wamp\www\na\Samconfig\SamUri.php:94
+[14-Sep-2013 18:05:27 UTC] PHP   5. mysql_num_rows() C:\wamp\www\na\SamScript\SamContrl\sitemap_sam.cls.php:90
+[14-Sep-2013 18:43:30 UTC] PHP Notice:  Undefined variable: Sam_Tpc_Arg in C:\wamp\www\na\SamScript\Samfun\tpcfun.php on line 52
+[14-Sep-2013 18:43:30 UTC] PHP Stack trace:
+[14-Sep-2013 18:43:30 UTC] PHP   1. Sam->__destruct() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:0
+[14-Sep-2013 18:43:30 UTC] PHP   2. eval() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:540
+[14-Sep-2013 18:43:30 UTC] PHP   3. require() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php(540) : eval()'d code:1
+[14-Sep-2013 18:43:40 UTC] PHP Notice:  Undefined variable: Sam_Tpc_Arg in C:\wamp\www\na\SamScript\Samfun\tpcfun.php on line 52
+[14-Sep-2013 18:43:40 UTC] PHP Stack trace:
+[14-Sep-2013 18:43:40 UTC] PHP   1. Sam->__destruct() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:0
+[14-Sep-2013 18:43:40 UTC] PHP   2. eval() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:540
+[14-Sep-2013 18:43:40 UTC] PHP   3. require() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php(540) : eval()'d code:1
+[14-Sep-2013 21:59:37 UTC] PHP Notice:  Undefined index: Top in C:\wamp\www\na\SamScript\Samfun\edtiorfun.php on line 417
+[14-Sep-2013 21:59:38 UTC] PHP Stack trace:
+[14-Sep-2013 21:59:38 UTC] PHP   1. Sam->__destruct() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:0
+[14-Sep-2013 21:59:38 UTC] PHP   2. eval() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:540
+[14-Sep-2013 21:59:38 UTC] PHP   3. require() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php(540) : eval()'d code:1
+[14-Sep-2013 22:00:37 UTC] PHP Notice:  Undefined index: Top in C:\wamp\www\na\SamScript\Samfun\edtiorfun.php on line 417
+[14-Sep-2013 22:00:37 UTC] PHP Stack trace:
+[14-Sep-2013 22:00:37 UTC] PHP   1. Sam->__destruct() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:0
+[14-Sep-2013 22:00:37 UTC] PHP   2. eval() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:540
+[14-Sep-2013 22:00:37 UTC] PHP   3. require() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php(540) : eval()'d code:1
+[14-Sep-2013 22:01:32 UTC] PHP Notice:  Undefined variable: Qid in C:\wamp\www\na\SamScript\Samfun\edtiorfun.php on line 416
+[14-Sep-2013 22:01:32 UTC] PHP Stack trace:
+[14-Sep-2013 22:01:32 UTC] PHP   1. Sam->__destruct() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:0
+[14-Sep-2013 22:01:32 UTC] PHP   2. eval() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:540
+[14-Sep-2013 22:01:32 UTC] PHP   3. require() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php(540) : eval()'d code:1
+[14-Sep-2013 22:10:47 UTC] PHP Parse error:  syntax error, unexpected '{' in C:\wamp\www\na\SamScript\Samfun\insrfun.php on line 163
+[14-Sep-2013 22:10:47 UTC] PHP Stack trace:
+[14-Sep-2013 22:10:47 UTC] PHP   1. Sam->__destruct() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:0
+[14-Sep-2013 22:10:47 UTC] PHP   2. eval() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:540
+[14-Sep-2013 22:12:50 UTC] PHP Parse error:  syntax error, unexpected '{' in C:\wamp\www\na\SamScript\Samfun\insrfun.php on line 130
+[14-Sep-2013 22:12:50 UTC] PHP Stack trace:
+[14-Sep-2013 22:12:50 UTC] PHP   1. Sam->__destruct() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:0
+[14-Sep-2013 22:12:50 UTC] PHP   2. eval() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:540
+[14-Sep-2013 22:12:53 UTC] PHP Parse error:  syntax error, unexpected '{' in C:\wamp\www\na\SamScript\Samfun\insrfun.php on line 130
+[14-Sep-2013 22:12:53 UTC] PHP Stack trace:
+[14-Sep-2013 22:12:53 UTC] PHP   1. Sam->__destruct() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:0
+[14-Sep-2013 22:12:53 UTC] PHP   2. eval() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:540
+[15-Sep-2013 05:58:42 UTC] PHP Parse error:  syntax error, unexpected ';' in C:\wamp\www\na\SamScript\Samfun\insrfun.php on line 11
+[15-Sep-2013 05:58:42 UTC] PHP Stack trace:
+[15-Sep-2013 05:58:42 UTC] PHP   1. Sam->__destruct() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:0
+[15-Sep-2013 05:58:42 UTC] PHP   2. eval() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:540
+[15-Sep-2013 05:58:58 UTC] PHP Notice:  Undefined index: Top in C:\wamp\www\na\SamScript\Samfun\insrfun.php on line 11
+[15-Sep-2013 05:58:58 UTC] PHP Stack trace:
+[15-Sep-2013 05:58:58 UTC] PHP   1. Sam->__destruct() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:0
+[15-Sep-2013 05:58:58 UTC] PHP   2. eval() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:540
+[15-Sep-2013 05:58:58 UTC] PHP   3. require() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php(540) : eval()'d code:1
+[15-Sep-2013 06:01:17 UTC] PHP Notice:  Undefined index: Top in C:\wamp\www\na\SamScript\Samfun\insrfun.php on line 11
+[15-Sep-2013 06:01:17 UTC] PHP Stack trace:
+[15-Sep-2013 06:01:17 UTC] PHP   1. Sam->__destruct() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:0
+[15-Sep-2013 06:01:17 UTC] PHP   2. eval() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:540
+[15-Sep-2013 06:01:17 UTC] PHP   3. require() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php(540) : eval()'d code:1
+[17-Sep-2013 19:02:37 UTC] PHP Notice:  Use of undefined constant TMBURL - assumed 'TMBURL' in C:\wamp\www\na\SamSkins\stl\ar_45.php on line 149
+[17-Sep-2013 19:02:37 UTC] PHP Stack trace:
+[17-Sep-2013 19:02:37 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[17-Sep-2013 19:02:37 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[17-Sep-2013 19:02:37 UTC] PHP   3. call_user_func_array() C:\wamp\www\na\Samconfig\SamUri.php:94
+[17-Sep-2013 19:02:37 UTC] PHP   4. expget->css() C:\wamp\www\na\Samconfig\SamUri.php:94
+[17-Sep-2013 19:02:37 UTC] PHP   5. require() C:\wamp\www\na\SamScript\SamContrl\expget.cls.php:90
+[17-Sep-2013 19:04:38 UTC] PHP Notice:  Undefined index: opc in C:\wamp\www\na\SamSkins\stl\ar_454.php on line 2
+[17-Sep-2013 19:04:38 UTC] PHP Stack trace:
+[17-Sep-2013 19:04:38 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[17-Sep-2013 19:04:38 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[17-Sep-2013 19:04:38 UTC] PHP   3. call_user_func_array() C:\wamp\www\na\Samconfig\SamUri.php:94
+[17-Sep-2013 19:04:38 UTC] PHP   4. expget->css() C:\wamp\www\na\Samconfig\SamUri.php:94
+[17-Sep-2013 19:04:38 UTC] PHP   5. require() C:\wamp\www\na\SamScript\SamContrl\expget.cls.php:90
+[27-Sep-2013 19:02:37 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in C:\wamp\www\na\SamScript\SamContrl\sam.cls.php on line 493
+[27-Sep-2013 19:02:37 UTC] PHP Stack trace:
+[27-Sep-2013 19:02:37 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[27-Sep-2013 19:02:37 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[27-Sep-2013 19:03:28 UTC] PHP Parse error:  syntax error, unexpected 'self' (T_STRING) in C:\wamp\www\na\SamScript\SamContrl\sam.cls.php on line 502
+[27-Sep-2013 19:03:28 UTC] PHP Stack trace:
+[27-Sep-2013 19:03:28 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[27-Sep-2013 19:03:28 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[27-Sep-2013 19:14:03 UTC] PHP Notice:  Use of undefined constant UID - assumed 'UID' in C:\wamp\www\na\Samdriver\mjorFunc.cls.php on line 360
+[27-Sep-2013 19:14:03 UTC] PHP Stack trace:
+[27-Sep-2013 19:14:03 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[27-Sep-2013 19:14:03 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[27-Sep-2013 19:14:03 UTC] PHP   3. Sam->__construct() C:\wamp\www\na\Samconfig\SamUri.php:48
+[27-Sep-2013 19:14:03 UTC] PHP   4. generel::SamInfousr() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:177
+[27-Sep-2013 19:14:03 UTC] PHP   5. Sam->__destruct() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:0
+[27-Sep-2013 19:14:03 UTC] PHP   6. mjorFunc::SamgetStyle() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:553
+[27-Sep-2013 19:14:03 UTC] PHP Notice:  Use of undefined constant UNM - assumed 'UNM' in C:\wamp\www\na\SamScript\SamVw\SamVw.cls\d_see.php on line 112
+[27-Sep-2013 19:14:03 UTC] PHP Stack trace:
+[27-Sep-2013 19:14:03 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[27-Sep-2013 19:14:03 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[27-Sep-2013 19:14:03 UTC] PHP   3. Sam->__construct() C:\wamp\www\na\Samconfig\SamUri.php:48
+[27-Sep-2013 19:14:03 UTC] PHP   4. generel::SamInfousr() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:177
+[27-Sep-2013 19:14:03 UTC] PHP   5. Sam->__destruct() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:0
+[27-Sep-2013 19:14:03 UTC] PHP   6. SAMSOL_CONTROLLER::SamSee() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:610
+[27-Sep-2013 19:14:03 UTC] PHP   7. require() C:\wamp\www\na\Samdriver\SamCntrl.cls.php:89
+[27-Sep-2013 19:14:03 UTC] PHP Notice:  Use of undefined constant UNM - assumed 'UNM' in C:\wamp\www\na\SamScript\SamVw\SamVw.cls\d_see.php on line 114
+[27-Sep-2013 19:14:03 UTC] PHP Stack trace:
+[27-Sep-2013 19:14:03 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[27-Sep-2013 19:14:03 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[27-Sep-2013 19:14:03 UTC] PHP   3. Sam->__construct() C:\wamp\www\na\Samconfig\SamUri.php:48
+[27-Sep-2013 19:14:03 UTC] PHP   4. generel::SamInfousr() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:177
+[27-Sep-2013 19:14:03 UTC] PHP   5. Sam->__destruct() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:0
+[27-Sep-2013 19:14:03 UTC] PHP   6. SAMSOL_CONTROLLER::SamSee() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:610
+[27-Sep-2013 19:14:03 UTC] PHP   7. require() C:\wamp\www\na\Samdriver\SamCntrl.cls.php:89
+[27-Sep-2013 19:14:03 UTC] PHP Notice:  Use of undefined constant UPS - assumed 'UPS' in C:\wamp\www\na\SamScript\SamVw\SamVw.cls\d_see.php on line 116
+[27-Sep-2013 19:14:03 UTC] PHP Stack trace:
+[27-Sep-2013 19:14:03 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[27-Sep-2013 19:14:03 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[27-Sep-2013 19:14:03 UTC] PHP   3. Sam->__construct() C:\wamp\www\na\Samconfig\SamUri.php:48
+[27-Sep-2013 19:14:03 UTC] PHP   4. generel::SamInfousr() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:177
+[27-Sep-2013 19:14:03 UTC] PHP   5. Sam->__destruct() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:0
+[27-Sep-2013 19:14:03 UTC] PHP   6. SAMSOL_CONTROLLER::SamSee() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:610
+[27-Sep-2013 19:14:03 UTC] PHP   7. require() C:\wamp\www\na\Samdriver\SamCntrl.cls.php:89
+[27-Sep-2013 19:14:03 UTC] PHP Notice:  Use of undefined constant ULV - assumed 'ULV' in C:\wamp\www\na\SamScript\SamVw\SamVw.cls\d_see.php on line 117
+[27-Sep-2013 19:14:03 UTC] PHP Stack trace:
+[27-Sep-2013 19:14:03 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[27-Sep-2013 19:14:03 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[27-Sep-2013 19:14:03 UTC] PHP   3. Sam->__construct() C:\wamp\www\na\Samconfig\SamUri.php:48
+[27-Sep-2013 19:14:03 UTC] PHP   4. generel::SamInfousr() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:177
+[27-Sep-2013 19:14:03 UTC] PHP   5. Sam->__destruct() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:0
+[27-Sep-2013 19:14:03 UTC] PHP   6. SAMSOL_CONTROLLER::SamSee() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:610
+[27-Sep-2013 19:14:03 UTC] PHP   7. require() C:\wamp\www\na\Samdriver\SamCntrl.cls.php:89
+[27-Sep-2013 19:14:33 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\wamp\www\na\SamScript\SamModl\SamMdl.cls\generel_mdl.php on line 58
+[27-Sep-2013 19:14:33 UTC] PHP Stack trace:
+[27-Sep-2013 19:14:33 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[27-Sep-2013 19:14:33 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[27-Sep-2013 19:14:33 UTC] PHP   3. Sam->__construct() C:\wamp\www\na\Samconfig\SamUri.php:48
+[27-Sep-2013 19:14:33 UTC] PHP   4. SAMSOL_CONTROLLER::SamModel() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:173
+[27-Sep-2013 19:14:33 UTC] PHP Notice:  Use of undefined constant UID - assumed 'UID' in C:\wamp\www\na\Samdriver\mjorFunc.cls.php on line 360
+[27-Sep-2013 19:14:33 UTC] PHP Stack trace:
+[27-Sep-2013 19:14:33 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[27-Sep-2013 19:14:33 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[27-Sep-2013 19:14:33 UTC] PHP   3. Sam->__construct() C:\wamp\www\na\Samconfig\SamUri.php:48
+[27-Sep-2013 19:14:33 UTC] PHP   4. SAMSOL_CONTROLLER::SamModel() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:173
+[27-Sep-2013 19:14:33 UTC] PHP   5. Sam->__destruct() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:0
+[27-Sep-2013 19:14:33 UTC] PHP   6. mjorFunc::SamgetStyle() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:553
+[27-Sep-2013 19:14:33 UTC] PHP Notice:  Use of undefined constant UNM - assumed 'UNM' in C:\wamp\www\na\SamScript\SamVw\SamVw.cls\d_see.php on line 112
+[27-Sep-2013 19:14:33 UTC] PHP Stack trace:
+[27-Sep-2013 19:14:33 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[27-Sep-2013 19:14:33 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[27-Sep-2013 19:14:33 UTC] PHP   3. Sam->__construct() C:\wamp\www\na\Samconfig\SamUri.php:48
+[27-Sep-2013 19:14:33 UTC] PHP   4. SAMSOL_CONTROLLER::SamModel() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:173
+[27-Sep-2013 19:14:33 UTC] PHP   5. Sam->__destruct() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:0
+[27-Sep-2013 19:14:33 UTC] PHP   6. SAMSOL_CONTROLLER::SamSee() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:610
+[27-Sep-2013 19:14:33 UTC] PHP   7. require() C:\wamp\www\na\Samdriver\SamCntrl.cls.php:89
+[27-Sep-2013 19:14:33 UTC] PHP Notice:  Use of undefined constant UNM - assumed 'UNM' in C:\wamp\www\na\SamScript\SamVw\SamVw.cls\d_see.php on line 114
+[27-Sep-2013 19:14:33 UTC] PHP Stack trace:
+[27-Sep-2013 19:14:33 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[27-Sep-2013 19:14:33 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[27-Sep-2013 19:14:33 UTC] PHP   3. Sam->__construct() C:\wamp\www\na\Samconfig\SamUri.php:48
+[27-Sep-2013 19:14:33 UTC] PHP   4. SAMSOL_CONTROLLER::SamModel() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:173
+[27-Sep-2013 19:14:33 UTC] PHP   5. Sam->__destruct() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:0
+[27-Sep-2013 19:14:33 UTC] PHP   6. SAMSOL_CONTROLLER::SamSee() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:610
+[27-Sep-2013 19:14:33 UTC] PHP   7. require() C:\wamp\www\na\Samdriver\SamCntrl.cls.php:89
+[27-Sep-2013 19:14:33 UTC] PHP Notice:  Use of undefined constant UPS - assumed 'UPS' in C:\wamp\www\na\SamScript\SamVw\SamVw.cls\d_see.php on line 116
+[27-Sep-2013 19:14:33 UTC] PHP Stack trace:
+[27-Sep-2013 19:14:33 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[27-Sep-2013 19:14:33 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[27-Sep-2013 19:14:33 UTC] PHP   3. Sam->__construct() C:\wamp\www\na\Samconfig\SamUri.php:48
+[27-Sep-2013 19:14:33 UTC] PHP   4. SAMSOL_CONTROLLER::SamModel() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:173
+[27-Sep-2013 19:14:33 UTC] PHP   5. Sam->__destruct() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:0
+[27-Sep-2013 19:14:33 UTC] PHP   6. SAMSOL_CONTROLLER::SamSee() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:610
+[27-Sep-2013 19:14:33 UTC] PHP   7. require() C:\wamp\www\na\Samdriver\SamCntrl.cls.php:89
+[27-Sep-2013 19:14:33 UTC] PHP Notice:  Use of undefined constant ULV - assumed 'ULV' in C:\wamp\www\na\SamScript\SamVw\SamVw.cls\d_see.php on line 117
+[27-Sep-2013 19:14:33 UTC] PHP Stack trace:
+[27-Sep-2013 19:14:33 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[27-Sep-2013 19:14:33 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[27-Sep-2013 19:14:33 UTC] PHP   3. Sam->__construct() C:\wamp\www\na\Samconfig\SamUri.php:48
+[27-Sep-2013 19:14:33 UTC] PHP   4. SAMSOL_CONTROLLER::SamModel() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:173
+[27-Sep-2013 19:14:33 UTC] PHP   5. Sam->__destruct() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:0
+[27-Sep-2013 19:14:33 UTC] PHP   6. SAMSOL_CONTROLLER::SamSee() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:610
+[27-Sep-2013 19:14:33 UTC] PHP   7. require() C:\wamp\www\na\Samdriver\SamCntrl.cls.php:89
+[27-Sep-2013 19:17:25 UTC] PHP Notice:  Use of undefined constant UID - assumed 'UID' in C:\wamp\www\na\Samdriver\mjorFunc.cls.php on line 360
+[27-Sep-2013 19:17:25 UTC] PHP Stack trace:
+[27-Sep-2013 19:17:25 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[27-Sep-2013 19:17:25 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[27-Sep-2013 19:17:25 UTC] PHP   3. Sam->__construct() C:\wamp\www\na\Samconfig\SamUri.php:48
+[27-Sep-2013 19:17:25 UTC] PHP   4. generel::SamInfousr() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:177
+[27-Sep-2013 19:17:25 UTC] PHP   5. Sam->__destruct() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:0
+[27-Sep-2013 19:17:25 UTC] PHP   6. mjorFunc::SamgetStyle() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:553
+[27-Sep-2013 19:17:25 UTC] PHP Notice:  Use of undefined constant UNM - assumed 'UNM' in C:\wamp\www\na\SamScript\SamVw\SamVw.cls\d_see.php on line 112
+[27-Sep-2013 19:17:25 UTC] PHP Stack trace:
+[27-Sep-2013 19:17:25 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[27-Sep-2013 19:17:25 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[27-Sep-2013 19:17:25 UTC] PHP   3. Sam->__construct() C:\wamp\www\na\Samconfig\SamUri.php:48
+[27-Sep-2013 19:17:25 UTC] PHP   4. generel::SamInfousr() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:177
+[27-Sep-2013 19:17:25 UTC] PHP   5. Sam->__destruct() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:0
+[27-Sep-2013 19:17:25 UTC] PHP   6. SAMSOL_CONTROLLER::SamSee() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:610
+[27-Sep-2013 19:17:25 UTC] PHP   7. require() C:\wamp\www\na\Samdriver\SamCntrl.cls.php:89
+[27-Sep-2013 19:17:25 UTC] PHP Notice:  Use of undefined constant UNM - assumed 'UNM' in C:\wamp\www\na\SamScript\SamVw\SamVw.cls\d_see.php on line 114
+[27-Sep-2013 19:17:25 UTC] PHP Stack trace:
+[27-Sep-2013 19:17:25 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[27-Sep-2013 19:17:25 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[27-Sep-2013 19:17:25 UTC] PHP   3. Sam->__construct() C:\wamp\www\na\Samconfig\SamUri.php:48
+[27-Sep-2013 19:17:25 UTC] PHP   4. generel::SamInfousr() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:177
+[27-Sep-2013 19:17:25 UTC] PHP   5. Sam->__destruct() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:0
+[27-Sep-2013 19:17:25 UTC] PHP   6. SAMSOL_CONTROLLER::SamSee() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:610
+[27-Sep-2013 19:17:25 UTC] PHP   7. require() C:\wamp\www\na\Samdriver\SamCntrl.cls.php:89
+[27-Sep-2013 19:17:25 UTC] PHP Notice:  Use of undefined constant UPS - assumed 'UPS' in C:\wamp\www\na\SamScript\SamVw\SamVw.cls\d_see.php on line 116
+[27-Sep-2013 19:17:25 UTC] PHP Stack trace:
+[27-Sep-2013 19:17:25 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[27-Sep-2013 19:17:25 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[27-Sep-2013 19:17:25 UTC] PHP   3. Sam->__construct() C:\wamp\www\na\Samconfig\SamUri.php:48
+[27-Sep-2013 19:17:25 UTC] PHP   4. generel::SamInfousr() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:177
+[27-Sep-2013 19:17:25 UTC] PHP   5. Sam->__destruct() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:0
+[27-Sep-2013 19:17:25 UTC] PHP   6. SAMSOL_CONTROLLER::SamSee() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:610
+[27-Sep-2013 19:17:25 UTC] PHP   7. require() C:\wamp\www\na\Samdriver\SamCntrl.cls.php:89
+[27-Sep-2013 19:17:25 UTC] PHP Notice:  Use of undefined constant ULV - assumed 'ULV' in C:\wamp\www\na\SamScript\SamVw\SamVw.cls\d_see.php on line 117
+[27-Sep-2013 19:17:25 UTC] PHP Stack trace:
+[27-Sep-2013 19:17:25 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[27-Sep-2013 19:17:25 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[27-Sep-2013 19:17:25 UTC] PHP   3. Sam->__construct() C:\wamp\www\na\Samconfig\SamUri.php:48
+[27-Sep-2013 19:17:25 UTC] PHP   4. generel::SamInfousr() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:177
+[27-Sep-2013 19:17:25 UTC] PHP   5. Sam->__destruct() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:0
+[27-Sep-2013 19:17:25 UTC] PHP   6. SAMSOL_CONTROLLER::SamSee() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:610
+[27-Sep-2013 19:17:25 UTC] PHP   7. require() C:\wamp\www\na\Samdriver\SamCntrl.cls.php:89
+[27-Sep-2013 19:20:13 UTC] PHP Notice:  Use of undefined constant UID - assumed 'UID' in C:\wamp\www\na\Samdriver\mjorFunc.cls.php on line 360
+[27-Sep-2013 19:20:13 UTC] PHP Stack trace:
+[27-Sep-2013 19:20:13 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[27-Sep-2013 19:20:13 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[27-Sep-2013 19:20:13 UTC] PHP   3. Sam->__construct() C:\wamp\www\na\Samconfig\SamUri.php:48
+[27-Sep-2013 19:20:13 UTC] PHP   4. generel::SamInfousr() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:177
+[27-Sep-2013 19:20:13 UTC] PHP   5. Sam->__destruct() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:0
+[27-Sep-2013 19:20:13 UTC] PHP   6. mjorFunc::SamgetStyle() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:553
+[27-Sep-2013 19:20:13 UTC] PHP Notice:  Use of undefined constant UNM - assumed 'UNM' in C:\wamp\www\na\SamScript\SamVw\SamVw.cls\d_see.php on line 112
+[27-Sep-2013 19:20:13 UTC] PHP Stack trace:
+[27-Sep-2013 19:20:13 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[27-Sep-2013 19:20:13 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[27-Sep-2013 19:20:13 UTC] PHP   3. Sam->__construct() C:\wamp\www\na\Samconfig\SamUri.php:48
+[27-Sep-2013 19:20:13 UTC] PHP   4. generel::SamInfousr() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:177
+[27-Sep-2013 19:20:13 UTC] PHP   5. Sam->__destruct() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:0
+[27-Sep-2013 19:20:13 UTC] PHP   6. SAMSOL_CONTROLLER::SamSee() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:610
+[27-Sep-2013 19:20:13 UTC] PHP   7. require() C:\wamp\www\na\Samdriver\SamCntrl.cls.php:89
+[27-Sep-2013 19:20:13 UTC] PHP Notice:  Use of undefined constant UNM - assumed 'UNM' in C:\wamp\www\na\SamScript\SamVw\SamVw.cls\d_see.php on line 114
+[27-Sep-2013 19:20:13 UTC] PHP Stack trace:
+[27-Sep-2013 19:20:13 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[27-Sep-2013 19:20:13 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[27-Sep-2013 19:20:13 UTC] PHP   3. Sam->__construct() C:\wamp\www\na\Samconfig\SamUri.php:48
+[27-Sep-2013 19:20:13 UTC] PHP   4. generel::SamInfousr() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:177
+[27-Sep-2013 19:20:13 UTC] PHP   5. Sam->__destruct() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:0
+[27-Sep-2013 19:20:13 UTC] PHP   6. SAMSOL_CONTROLLER::SamSee() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:610
+[27-Sep-2013 19:20:13 UTC] PHP   7. require() C:\wamp\www\na\Samdriver\SamCntrl.cls.php:89
+[27-Sep-2013 19:20:13 UTC] PHP Notice:  Use of undefined constant UPS - assumed 'UPS' in C:\wamp\www\na\SamScript\SamVw\SamVw.cls\d_see.php on line 116
+[27-Sep-2013 19:20:13 UTC] PHP Stack trace:
+[27-Sep-2013 19:20:13 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[27-Sep-2013 19:20:13 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[27-Sep-2013 19:20:13 UTC] PHP   3. Sam->__construct() C:\wamp\www\na\Samconfig\SamUri.php:48
+[27-Sep-2013 19:20:13 UTC] PHP   4. generel::SamInfousr() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:177
+[27-Sep-2013 19:20:13 UTC] PHP   5. Sam->__destruct() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:0
+[27-Sep-2013 19:20:13 UTC] PHP   6. SAMSOL_CONTROLLER::SamSee() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:610
+[27-Sep-2013 19:20:13 UTC] PHP   7. require() C:\wamp\www\na\Samdriver\SamCntrl.cls.php:89
+[27-Sep-2013 19:20:13 UTC] PHP Notice:  Use of undefined constant ULV - assumed 'ULV' in C:\wamp\www\na\SamScript\SamVw\SamVw.cls\d_see.php on line 117
+[27-Sep-2013 19:20:13 UTC] PHP Stack trace:
+[27-Sep-2013 19:20:13 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[27-Sep-2013 19:20:13 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[27-Sep-2013 19:20:13 UTC] PHP   3. Sam->__construct() C:\wamp\www\na\Samconfig\SamUri.php:48
+[27-Sep-2013 19:20:13 UTC] PHP   4. generel::SamInfousr() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:177
+[27-Sep-2013 19:20:13 UTC] PHP   5. Sam->__destruct() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:0
+[27-Sep-2013 19:20:13 UTC] PHP   6. SAMSOL_CONTROLLER::SamSee() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:610
+[27-Sep-2013 19:20:13 UTC] PHP   7. require() C:\wamp\www\na\Samdriver\SamCntrl.cls.php:89
+[27-Sep-2013 19:20:31 UTC] PHP Notice:  Use of undefined constant UID - assumed 'UID' in C:\wamp\www\na\Samdriver\mjorFunc.cls.php on line 360
+[27-Sep-2013 19:20:31 UTC] PHP Stack trace:
+[27-Sep-2013 19:20:31 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[27-Sep-2013 19:20:31 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[27-Sep-2013 19:20:31 UTC] PHP   3. Sam->__construct() C:\wamp\www\na\Samconfig\SamUri.php:48
+[27-Sep-2013 19:20:31 UTC] PHP   4. generel::SamInfousr() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:177
+[27-Sep-2013 19:20:31 UTC] PHP   5. Sam->__destruct() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:0
+[27-Sep-2013 19:20:31 UTC] PHP   6. mjorFunc::SamgetStyle() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:553
+[27-Sep-2013 19:20:31 UTC] PHP Notice:  Use of undefined constant UNM - assumed 'UNM' in C:\wamp\www\na\SamScript\SamVw\SamVw.cls\d_see.php on line 112
+[27-Sep-2013 19:20:31 UTC] PHP Stack trace:
+[27-Sep-2013 19:20:31 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[27-Sep-2013 19:20:31 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[27-Sep-2013 19:20:31 UTC] PHP   3. Sam->__construct() C:\wamp\www\na\Samconfig\SamUri.php:48
+[27-Sep-2013 19:20:31 UTC] PHP   4. generel::SamInfousr() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:177
+[27-Sep-2013 19:20:31 UTC] PHP   5. Sam->__destruct() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:0
+[27-Sep-2013 19:20:31 UTC] PHP   6. SAMSOL_CONTROLLER::SamSee() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:610
+[27-Sep-2013 19:20:31 UTC] PHP   7. require() C:\wamp\www\na\Samdriver\SamCntrl.cls.php:89
+[27-Sep-2013 19:20:31 UTC] PHP Notice:  Use of undefined constant UNM - assumed 'UNM' in C:\wamp\www\na\SamScript\SamVw\SamVw.cls\d_see.php on line 114
+[27-Sep-2013 19:20:31 UTC] PHP Stack trace:
+[27-Sep-2013 19:20:31 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[27-Sep-2013 19:20:31 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[27-Sep-2013 19:20:31 UTC] PHP   3. Sam->__construct() C:\wamp\www\na\Samconfig\SamUri.php:48
+[27-Sep-2013 19:20:31 UTC] PHP   4. generel::SamInfousr() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:177
+[27-Sep-2013 19:20:31 UTC] PHP   5. Sam->__destruct() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:0
+[27-Sep-2013 19:20:31 UTC] PHP   6. SAMSOL_CONTROLLER::SamSee() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:610
+[27-Sep-2013 19:20:31 UTC] PHP   7. require() C:\wamp\www\na\Samdriver\SamCntrl.cls.php:89
+[27-Sep-2013 19:20:31 UTC] PHP Notice:  Use of undefined constant UPS - assumed 'UPS' in C:\wamp\www\na\SamScript\SamVw\SamVw.cls\d_see.php on line 116
+[27-Sep-2013 19:20:31 UTC] PHP Stack trace:
+[27-Sep-2013 19:20:31 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[27-Sep-2013 19:20:31 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[27-Sep-2013 19:20:31 UTC] PHP   3. Sam->__construct() C:\wamp\www\na\Samconfig\SamUri.php:48
+[27-Sep-2013 19:20:31 UTC] PHP   4. generel::SamInfousr() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:177
+[27-Sep-2013 19:20:31 UTC] PHP   5. Sam->__destruct() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:0
+[27-Sep-2013 19:20:31 UTC] PHP   6. SAMSOL_CONTROLLER::SamSee() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:610
+[27-Sep-2013 19:20:31 UTC] PHP   7. require() C:\wamp\www\na\Samdriver\SamCntrl.cls.php:89
+[27-Sep-2013 19:20:31 UTC] PHP Notice:  Use of undefined constant ULV - assumed 'ULV' in C:\wamp\www\na\SamScript\SamVw\SamVw.cls\d_see.php on line 117
+[27-Sep-2013 19:20:31 UTC] PHP Stack trace:
+[27-Sep-2013 19:20:31 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[27-Sep-2013 19:20:31 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[27-Sep-2013 19:20:31 UTC] PHP   3. Sam->__construct() C:\wamp\www\na\Samconfig\SamUri.php:48
+[27-Sep-2013 19:20:31 UTC] PHP   4. generel::SamInfousr() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:177
+[27-Sep-2013 19:20:31 UTC] PHP   5. Sam->__destruct() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:0
+[27-Sep-2013 19:20:31 UTC] PHP   6. SAMSOL_CONTROLLER::SamSee() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:610
+[27-Sep-2013 19:20:31 UTC] PHP   7. require() C:\wamp\www\na\Samdriver\SamCntrl.cls.php:89
+[27-Sep-2013 19:20:56 UTC] PHP Parse error:  syntax error, unexpected ';' in C:\wamp\www\na\SamScript\SamModl\SamMdl.cls\generel_mdl.php on line 51
+[27-Sep-2013 19:20:56 UTC] PHP Stack trace:
+[27-Sep-2013 19:20:56 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[27-Sep-2013 19:20:56 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[27-Sep-2013 19:20:56 UTC] PHP   3. Sam->__construct() C:\wamp\www\na\Samconfig\SamUri.php:48
+[27-Sep-2013 19:20:56 UTC] PHP   4. SAMSOL_CONTROLLER::SamModel() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:173
+[27-Sep-2013 19:20:56 UTC] PHP Notice:  Use of undefined constant UID - assumed 'UID' in C:\wamp\www\na\Samdriver\mjorFunc.cls.php on line 360
+[27-Sep-2013 19:20:56 UTC] PHP Stack trace:
+[27-Sep-2013 19:20:56 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[27-Sep-2013 19:20:56 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[27-Sep-2013 19:20:56 UTC] PHP   3. Sam->__construct() C:\wamp\www\na\Samconfig\SamUri.php:48
+[27-Sep-2013 19:20:56 UTC] PHP   4. SAMSOL_CONTROLLER::SamModel() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:173
+[27-Sep-2013 19:20:56 UTC] PHP   5. Sam->__destruct() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:0
+[27-Sep-2013 19:20:56 UTC] PHP   6. mjorFunc::SamgetStyle() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:553
+[27-Sep-2013 19:20:56 UTC] PHP Notice:  Use of undefined constant UNM - assumed 'UNM' in C:\wamp\www\na\SamScript\SamVw\SamVw.cls\d_see.php on line 112
+[27-Sep-2013 19:20:56 UTC] PHP Stack trace:
+[27-Sep-2013 19:20:56 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[27-Sep-2013 19:20:56 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[27-Sep-2013 19:20:56 UTC] PHP   3. Sam->__construct() C:\wamp\www\na\Samconfig\SamUri.php:48
+[27-Sep-2013 19:20:56 UTC] PHP   4. SAMSOL_CONTROLLER::SamModel() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:173
+[27-Sep-2013 19:20:56 UTC] PHP   5. Sam->__destruct() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:0
+[27-Sep-2013 19:20:56 UTC] PHP   6. SAMSOL_CONTROLLER::SamSee() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:610
+[27-Sep-2013 19:20:56 UTC] PHP   7. require() C:\wamp\www\na\Samdriver\SamCntrl.cls.php:89
+[27-Sep-2013 19:20:56 UTC] PHP Notice:  Use of undefined constant UNM - assumed 'UNM' in C:\wamp\www\na\SamScript\SamVw\SamVw.cls\d_see.php on line 114
+[27-Sep-2013 19:20:56 UTC] PHP Stack trace:
+[27-Sep-2013 19:20:56 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[27-Sep-2013 19:20:56 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[27-Sep-2013 19:20:56 UTC] PHP   3. Sam->__construct() C:\wamp\www\na\Samconfig\SamUri.php:48
+[27-Sep-2013 19:20:56 UTC] PHP   4. SAMSOL_CONTROLLER::SamModel() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:173
+[27-Sep-2013 19:20:56 UTC] PHP   5. Sam->__destruct() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:0
+[27-Sep-2013 19:20:56 UTC] PHP   6. SAMSOL_CONTROLLER::SamSee() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:610
+[27-Sep-2013 19:20:56 UTC] PHP   7. require() C:\wamp\www\na\Samdriver\SamCntrl.cls.php:89
+[27-Sep-2013 19:20:56 UTC] PHP Notice:  Use of undefined constant UPS - assumed 'UPS' in C:\wamp\www\na\SamScript\SamVw\SamVw.cls\d_see.php on line 116
+[27-Sep-2013 19:20:56 UTC] PHP Stack trace:
+[27-Sep-2013 19:20:56 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[27-Sep-2013 19:20:56 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[27-Sep-2013 19:20:56 UTC] PHP   3. Sam->__construct() C:\wamp\www\na\Samconfig\SamUri.php:48
+[27-Sep-2013 19:20:56 UTC] PHP   4. SAMSOL_CONTROLLER::SamModel() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:173
+[27-Sep-2013 19:20:56 UTC] PHP   5. Sam->__destruct() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:0
+[27-Sep-2013 19:20:56 UTC] PHP   6. SAMSOL_CONTROLLER::SamSee() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:610
+[27-Sep-2013 19:20:56 UTC] PHP   7. require() C:\wamp\www\na\Samdriver\SamCntrl.cls.php:89
+[27-Sep-2013 19:20:56 UTC] PHP Notice:  Use of undefined constant ULV - assumed 'ULV' in C:\wamp\www\na\SamScript\SamVw\SamVw.cls\d_see.php on line 117
+[27-Sep-2013 19:20:56 UTC] PHP Stack trace:
+[27-Sep-2013 19:20:56 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[27-Sep-2013 19:20:56 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[27-Sep-2013 19:20:56 UTC] PHP   3. Sam->__construct() C:\wamp\www\na\Samconfig\SamUri.php:48
+[27-Sep-2013 19:20:56 UTC] PHP   4. SAMSOL_CONTROLLER::SamModel() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:173
+[27-Sep-2013 19:20:56 UTC] PHP   5. Sam->__destruct() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:0
+[27-Sep-2013 19:20:56 UTC] PHP   6. SAMSOL_CONTROLLER::SamSee() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:610
+[27-Sep-2013 19:20:56 UTC] PHP   7. require() C:\wamp\www\na\Samdriver\SamCntrl.cls.php:89
+[27-Sep-2013 19:21:06 UTC] PHP Notice:  Use of undefined constant UID - assumed 'UID' in C:\wamp\www\na\Samdriver\mjorFunc.cls.php on line 360
+[27-Sep-2013 19:21:06 UTC] PHP Stack trace:
+[27-Sep-2013 19:21:06 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[27-Sep-2013 19:21:06 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[27-Sep-2013 19:21:06 UTC] PHP   3. Sam->__construct() C:\wamp\www\na\Samconfig\SamUri.php:48
+[27-Sep-2013 19:21:06 UTC] PHP   4. generel::SamInfousr() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:177
+[27-Sep-2013 19:21:06 UTC] PHP   5. Sam->__destruct() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:0
+[27-Sep-2013 19:21:06 UTC] PHP   6. mjorFunc::SamgetStyle() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:553
+[27-Sep-2013 19:21:06 UTC] PHP Notice:  Use of undefined constant UNM - assumed 'UNM' in C:\wamp\www\na\SamScript\SamVw\SamVw.cls\d_see.php on line 112
+[27-Sep-2013 19:21:06 UTC] PHP Stack trace:
+[27-Sep-2013 19:21:06 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[27-Sep-2013 19:21:06 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[27-Sep-2013 19:21:06 UTC] PHP   3. Sam->__construct() C:\wamp\www\na\Samconfig\SamUri.php:48
+[27-Sep-2013 19:21:06 UTC] PHP   4. generel::SamInfousr() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:177
+[27-Sep-2013 19:21:06 UTC] PHP   5. Sam->__destruct() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:0
+[27-Sep-2013 19:21:06 UTC] PHP   6. SAMSOL_CONTROLLER::SamSee() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:610
+[27-Sep-2013 19:21:06 UTC] PHP   7. require() C:\wamp\www\na\Samdriver\SamCntrl.cls.php:89
+[27-Sep-2013 19:21:06 UTC] PHP Notice:  Use of undefined constant UNM - assumed 'UNM' in C:\wamp\www\na\SamScript\SamVw\SamVw.cls\d_see.php on line 114
+[27-Sep-2013 19:21:06 UTC] PHP Stack trace:
+[27-Sep-2013 19:21:06 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[27-Sep-2013 19:21:06 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[27-Sep-2013 19:21:06 UTC] PHP   3. Sam->__construct() C:\wamp\www\na\Samconfig\SamUri.php:48
+[27-Sep-2013 19:21:06 UTC] PHP   4. generel::SamInfousr() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:177
+[27-Sep-2013 19:21:06 UTC] PHP   5. Sam->__destruct() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:0
+[27-Sep-2013 19:21:06 UTC] PHP   6. SAMSOL_CONTROLLER::SamSee() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:610
+[27-Sep-2013 19:21:06 UTC] PHP   7. require() C:\wamp\www\na\Samdriver\SamCntrl.cls.php:89
+[27-Sep-2013 19:21:06 UTC] PHP Notice:  Use of undefined constant UPS - assumed 'UPS' in C:\wamp\www\na\SamScript\SamVw\SamVw.cls\d_see.php on line 116
+[27-Sep-2013 19:21:06 UTC] PHP Stack trace:
+[27-Sep-2013 19:21:06 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[27-Sep-2013 19:21:06 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[27-Sep-2013 19:21:06 UTC] PHP   3. Sam->__construct() C:\wamp\www\na\Samconfig\SamUri.php:48
+[27-Sep-2013 19:21:06 UTC] PHP   4. generel::SamInfousr() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:177
+[27-Sep-2013 19:21:06 UTC] PHP   5. Sam->__destruct() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:0
+[27-Sep-2013 19:21:06 UTC] PHP   6. SAMSOL_CONTROLLER::SamSee() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:610
+[27-Sep-2013 19:21:06 UTC] PHP   7. require() C:\wamp\www\na\Samdriver\SamCntrl.cls.php:89
+[27-Sep-2013 19:21:06 UTC] PHP Notice:  Use of undefined constant ULV - assumed 'ULV' in C:\wamp\www\na\SamScript\SamVw\SamVw.cls\d_see.php on line 117
+[27-Sep-2013 19:21:06 UTC] PHP Stack trace:
+[27-Sep-2013 19:21:06 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[27-Sep-2013 19:21:06 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[27-Sep-2013 19:21:06 UTC] PHP   3. Sam->__construct() C:\wamp\www\na\Samconfig\SamUri.php:48
+[27-Sep-2013 19:21:06 UTC] PHP   4. generel::SamInfousr() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:177
+[27-Sep-2013 19:21:06 UTC] PHP   5. Sam->__destruct() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:0
+[27-Sep-2013 19:21:06 UTC] PHP   6. SAMSOL_CONTROLLER::SamSee() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:610
+[27-Sep-2013 19:21:06 UTC] PHP   7. require() C:\wamp\www\na\Samdriver\SamCntrl.cls.php:89
+[27-Sep-2013 19:25:11 UTC] PHP Notice:  Use of undefined constant UID - assumed 'UID' in C:\wamp\www\na\Samdriver\mjorFunc.cls.php on line 360
+[27-Sep-2013 19:25:11 UTC] PHP Stack trace:
+[27-Sep-2013 19:25:11 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[27-Sep-2013 19:25:11 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[27-Sep-2013 19:25:11 UTC] PHP   3. Sam->__construct() C:\wamp\www\na\Samconfig\SamUri.php:48
+[27-Sep-2013 19:25:11 UTC] PHP   4. generel::SamInfousr() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:177
+[27-Sep-2013 19:25:11 UTC] PHP   5. Sam->__destruct() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:0
+[27-Sep-2013 19:25:11 UTC] PHP   6. mjorFunc::SamgetStyle() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:553
+[27-Sep-2013 19:25:11 UTC] PHP Notice:  Use of undefined constant UNM - assumed 'UNM' in C:\wamp\www\na\SamScript\SamVw\SamVw.cls\d_see.php on line 112
+[27-Sep-2013 19:25:11 UTC] PHP Stack trace:
+[27-Sep-2013 19:25:11 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[27-Sep-2013 19:25:11 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[27-Sep-2013 19:25:11 UTC] PHP   3. Sam->__construct() C:\wamp\www\na\Samconfig\SamUri.php:48
+[27-Sep-2013 19:25:11 UTC] PHP   4. generel::SamInfousr() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:177
+[27-Sep-2013 19:25:11 UTC] PHP   5. Sam->__destruct() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:0
+[27-Sep-2013 19:25:11 UTC] PHP   6. SAMSOL_CONTROLLER::SamSee() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:610
+[27-Sep-2013 19:25:11 UTC] PHP   7. require() C:\wamp\www\na\Samdriver\SamCntrl.cls.php:89
+[27-Sep-2013 19:25:11 UTC] PHP Notice:  Use of undefined constant UNM - assumed 'UNM' in C:\wamp\www\na\SamScript\SamVw\SamVw.cls\d_see.php on line 114
+[27-Sep-2013 19:25:11 UTC] PHP Stack trace:
+[27-Sep-2013 19:25:11 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[27-Sep-2013 19:25:11 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[27-Sep-2013 19:25:11 UTC] PHP   3. Sam->__construct() C:\wamp\www\na\Samconfig\SamUri.php:48
+[27-Sep-2013 19:25:11 UTC] PHP   4. generel::SamInfousr() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:177
+[27-Sep-2013 19:25:11 UTC] PHP   5. Sam->__destruct() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:0
+[27-Sep-2013 19:25:11 UTC] PHP   6. SAMSOL_CONTROLLER::SamSee() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:610
+[27-Sep-2013 19:25:11 UTC] PHP   7. require() C:\wamp\www\na\Samdriver\SamCntrl.cls.php:89
+[27-Sep-2013 19:25:11 UTC] PHP Notice:  Use of undefined constant UPS - assumed 'UPS' in C:\wamp\www\na\SamScript\SamVw\SamVw.cls\d_see.php on line 116
+[27-Sep-2013 19:25:11 UTC] PHP Stack trace:
+[27-Sep-2013 19:25:11 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[27-Sep-2013 19:25:11 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[27-Sep-2013 19:25:11 UTC] PHP   3. Sam->__construct() C:\wamp\www\na\Samconfig\SamUri.php:48
+[27-Sep-2013 19:25:11 UTC] PHP   4. generel::SamInfousr() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:177
+[27-Sep-2013 19:25:11 UTC] PHP   5. Sam->__destruct() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:0
+[27-Sep-2013 19:25:11 UTC] PHP   6. SAMSOL_CONTROLLER::SamSee() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:610
+[27-Sep-2013 19:25:11 UTC] PHP   7. require() C:\wamp\www\na\Samdriver\SamCntrl.cls.php:89
+[27-Sep-2013 19:25:11 UTC] PHP Notice:  Use of undefined constant ULV - assumed 'ULV' in C:\wamp\www\na\SamScript\SamVw\SamVw.cls\d_see.php on line 117
+[27-Sep-2013 19:25:11 UTC] PHP Stack trace:
+[27-Sep-2013 19:25:11 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[27-Sep-2013 19:25:11 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[27-Sep-2013 19:25:11 UTC] PHP   3. Sam->__construct() C:\wamp\www\na\Samconfig\SamUri.php:48
+[27-Sep-2013 19:25:11 UTC] PHP   4. generel::SamInfousr() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:177
+[27-Sep-2013 19:25:11 UTC] PHP   5. Sam->__destruct() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:0
+[27-Sep-2013 19:25:11 UTC] PHP   6. SAMSOL_CONTROLLER::SamSee() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:610
+[27-Sep-2013 19:25:11 UTC] PHP   7. require() C:\wamp\www\na\Samdriver\SamCntrl.cls.php:89
+[27-Sep-2013 19:25:13 UTC] PHP Notice:  Use of undefined constant UID - assumed 'UID' in C:\wamp\www\na\Samdriver\mjorFunc.cls.php on line 360
+[27-Sep-2013 19:25:13 UTC] PHP Stack trace:
+[27-Sep-2013 19:25:13 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[27-Sep-2013 19:25:13 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[27-Sep-2013 19:25:13 UTC] PHP   3. Sam->__construct() C:\wamp\www\na\Samconfig\SamUri.php:48
+[27-Sep-2013 19:25:13 UTC] PHP   4. generel::SamInfousr() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:177
+[27-Sep-2013 19:25:13 UTC] PHP   5. Sam->__destruct() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:0
+[27-Sep-2013 19:25:13 UTC] PHP   6. mjorFunc::SamgetStyle() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:553
+[27-Sep-2013 19:25:13 UTC] PHP Notice:  Use of undefined constant UNM - assumed 'UNM' in C:\wamp\www\na\SamScript\SamVw\SamVw.cls\d_see.php on line 112
+[27-Sep-2013 19:25:13 UTC] PHP Stack trace:
+[27-Sep-2013 19:25:13 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[27-Sep-2013 19:25:13 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[27-Sep-2013 19:25:13 UTC] PHP   3. Sam->__construct() C:\wamp\www\na\Samconfig\SamUri.php:48
+[27-Sep-2013 19:25:13 UTC] PHP   4. generel::SamInfousr() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:177
+[27-Sep-2013 19:25:13 UTC] PHP   5. Sam->__destruct() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:0
+[27-Sep-2013 19:25:13 UTC] PHP   6. SAMSOL_CONTROLLER::SamSee() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:610
+[27-Sep-2013 19:25:13 UTC] PHP   7. require() C:\wamp\www\na\Samdriver\SamCntrl.cls.php:89
+[27-Sep-2013 19:25:13 UTC] PHP Notice:  Use of undefined constant UNM - assumed 'UNM' in C:\wamp\www\na\SamScript\SamVw\SamVw.cls\d_see.php on line 114
+[27-Sep-2013 19:25:13 UTC] PHP Stack trace:
+[27-Sep-2013 19:25:13 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[27-Sep-2013 19:25:13 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[27-Sep-2013 19:25:13 UTC] PHP   3. Sam->__construct() C:\wamp\www\na\Samconfig\SamUri.php:48
+[27-Sep-2013 19:25:13 UTC] PHP   4. generel::SamInfousr() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:177
+[27-Sep-2013 19:25:13 UTC] PHP   5. Sam->__destruct() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:0
+[27-Sep-2013 19:25:13 UTC] PHP   6. SAMSOL_CONTROLLER::SamSee() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:610
+[27-Sep-2013 19:25:13 UTC] PHP   7. require() C:\wamp\www\na\Samdriver\SamCntrl.cls.php:89
+[27-Sep-2013 19:25:13 UTC] PHP Notice:  Use of undefined constant UPS - assumed 'UPS' in C:\wamp\www\na\SamScript\SamVw\SamVw.cls\d_see.php on line 116
+[27-Sep-2013 19:25:13 UTC] PHP Stack trace:
+[27-Sep-2013 19:25:13 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[27-Sep-2013 19:25:13 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[27-Sep-2013 19:25:13 UTC] PHP   3. Sam->__construct() C:\wamp\www\na\Samconfig\SamUri.php:48
+[27-Sep-2013 19:25:13 UTC] PHP   4. generel::SamInfousr() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:177
+[27-Sep-2013 19:25:13 UTC] PHP   5. Sam->__destruct() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:0
+[27-Sep-2013 19:25:13 UTC] PHP   6. SAMSOL_CONTROLLER::SamSee() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:610
+[27-Sep-2013 19:25:13 UTC] PHP   7. require() C:\wamp\www\na\Samdriver\SamCntrl.cls.php:89
+[27-Sep-2013 19:25:13 UTC] PHP Notice:  Use of undefined constant ULV - assumed 'ULV' in C:\wamp\www\na\SamScript\SamVw\SamVw.cls\d_see.php on line 117
+[27-Sep-2013 19:25:13 UTC] PHP Stack trace:
+[27-Sep-2013 19:25:13 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[27-Sep-2013 19:25:13 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[27-Sep-2013 19:25:13 UTC] PHP   3. Sam->__construct() C:\wamp\www\na\Samconfig\SamUri.php:48
+[27-Sep-2013 19:25:13 UTC] PHP   4. generel::SamInfousr() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:177
+[27-Sep-2013 19:25:13 UTC] PHP   5. Sam->__destruct() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:0
+[27-Sep-2013 19:25:13 UTC] PHP   6. SAMSOL_CONTROLLER::SamSee() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:610
+[27-Sep-2013 19:25:13 UTC] PHP   7. require() C:\wamp\www\na\Samdriver\SamCntrl.cls.php:89
+[27-Sep-2013 19:25:15 UTC] PHP Notice:  Use of undefined constant UID - assumed 'UID' in C:\wamp\www\na\Samdriver\mjorFunc.cls.php on line 360
+[27-Sep-2013 19:25:15 UTC] PHP Stack trace:
+[27-Sep-2013 19:25:15 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[27-Sep-2013 19:25:15 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[27-Sep-2013 19:25:15 UTC] PHP   3. Sam->__construct() C:\wamp\www\na\Samconfig\SamUri.php:48
+[27-Sep-2013 19:25:15 UTC] PHP   4. generel::SamInfousr() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:177
+[27-Sep-2013 19:25:15 UTC] PHP   5. Sam->__destruct() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:0
+[27-Sep-2013 19:25:15 UTC] PHP   6. mjorFunc::SamgetStyle() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:553
+[27-Sep-2013 19:25:15 UTC] PHP Notice:  Use of undefined constant UNM - assumed 'UNM' in C:\wamp\www\na\SamScript\SamVw\SamVw.cls\d_see.php on line 112
+[27-Sep-2013 19:25:15 UTC] PHP Stack trace:
+[27-Sep-2013 19:25:15 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[27-Sep-2013 19:25:15 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[27-Sep-2013 19:25:15 UTC] PHP   3. Sam->__construct() C:\wamp\www\na\Samconfig\SamUri.php:48
+[27-Sep-2013 19:25:15 UTC] PHP   4. generel::SamInfousr() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:177
+[27-Sep-2013 19:25:15 UTC] PHP   5. Sam->__destruct() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:0
+[27-Sep-2013 19:25:15 UTC] PHP   6. SAMSOL_CONTROLLER::SamSee() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:610
+[27-Sep-2013 19:25:15 UTC] PHP   7. require() C:\wamp\www\na\Samdriver\SamCntrl.cls.php:89
+[27-Sep-2013 19:25:15 UTC] PHP Notice:  Use of undefined constant UNM - assumed 'UNM' in C:\wamp\www\na\SamScript\SamVw\SamVw.cls\d_see.php on line 114
+[27-Sep-2013 19:25:15 UTC] PHP Stack trace:
+[27-Sep-2013 19:25:15 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[27-Sep-2013 19:25:15 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[27-Sep-2013 19:25:15 UTC] PHP   3. Sam->__construct() C:\wamp\www\na\Samconfig\SamUri.php:48
+[27-Sep-2013 19:25:15 UTC] PHP   4. generel::SamInfousr() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:177
+[27-Sep-2013 19:25:15 UTC] PHP   5. Sam->__destruct() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:0
+[27-Sep-2013 19:25:15 UTC] PHP   6. SAMSOL_CONTROLLER::SamSee() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:610
+[27-Sep-2013 19:25:15 UTC] PHP   7. require() C:\wamp\www\na\Samdriver\SamCntrl.cls.php:89
+[27-Sep-2013 19:25:15 UTC] PHP Notice:  Use of undefined constant UPS - assumed 'UPS' in C:\wamp\www\na\SamScript\SamVw\SamVw.cls\d_see.php on line 116
+[27-Sep-2013 19:25:15 UTC] PHP Stack trace:
+[27-Sep-2013 19:25:15 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[27-Sep-2013 19:25:15 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[27-Sep-2013 19:25:15 UTC] PHP   3. Sam->__construct() C:\wamp\www\na\Samconfig\SamUri.php:48
+[27-Sep-2013 19:25:15 UTC] PHP   4. generel::SamInfousr() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:177
+[27-Sep-2013 19:25:15 UTC] PHP   5. Sam->__destruct() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:0
+[27-Sep-2013 19:25:15 UTC] PHP   6. SAMSOL_CONTROLLER::SamSee() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:610
+[27-Sep-2013 19:25:15 UTC] PHP   7. require() C:\wamp\www\na\Samdriver\SamCntrl.cls.php:89
+[27-Sep-2013 19:25:15 UTC] PHP Notice:  Use of undefined constant ULV - assumed 'ULV' in C:\wamp\www\na\SamScript\SamVw\SamVw.cls\d_see.php on line 117
+[27-Sep-2013 19:25:15 UTC] PHP Stack trace:
+[27-Sep-2013 19:25:15 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[27-Sep-2013 19:25:15 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[27-Sep-2013 19:25:15 UTC] PHP   3. Sam->__construct() C:\wamp\www\na\Samconfig\SamUri.php:48
+[27-Sep-2013 19:25:15 UTC] PHP   4. generel::SamInfousr() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:177
+[27-Sep-2013 19:25:15 UTC] PHP   5. Sam->__destruct() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:0
+[27-Sep-2013 19:25:15 UTC] PHP   6. SAMSOL_CONTROLLER::SamSee() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:610
+[27-Sep-2013 19:25:15 UTC] PHP   7. require() C:\wamp\www\na\Samdriver\SamCntrl.cls.php:89
+[27-Sep-2013 19:29:35 UTC] PHP Notice:  Use of undefined constant UID - assumed 'UID' in C:\wamp\www\na\Samdriver\mjorFunc.cls.php on line 360
+[27-Sep-2013 19:29:35 UTC] PHP Stack trace:
+[27-Sep-2013 19:29:35 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[27-Sep-2013 19:29:35 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[27-Sep-2013 19:29:35 UTC] PHP   3. Sam->__construct() C:\wamp\www\na\Samconfig\SamUri.php:48
+[27-Sep-2013 19:29:35 UTC] PHP   4. generel::SamInfousr() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:177
+[27-Sep-2013 19:29:35 UTC] PHP   5. Sam->__destruct() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:0
+[27-Sep-2013 19:29:35 UTC] PHP   6. mjorFunc::SamgetStyle() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:553
+[27-Sep-2013 19:29:35 UTC] PHP Notice:  Use of undefined constant UNM - assumed 'UNM' in C:\wamp\www\na\SamScript\SamVw\SamVw.cls\d_see.php on line 112
+[27-Sep-2013 19:29:35 UTC] PHP Stack trace:
+[27-Sep-2013 19:29:35 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[27-Sep-2013 19:29:35 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[27-Sep-2013 19:29:35 UTC] PHP   3. Sam->__construct() C:\wamp\www\na\Samconfig\SamUri.php:48
+[27-Sep-2013 19:29:35 UTC] PHP   4. generel::SamInfousr() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:177
+[27-Sep-2013 19:29:35 UTC] PHP   5. Sam->__destruct() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:0
+[27-Sep-2013 19:29:35 UTC] PHP   6. SAMSOL_CONTROLLER::SamSee() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:610
+[27-Sep-2013 19:29:35 UTC] PHP   7. require() C:\wamp\www\na\Samdriver\SamCntrl.cls.php:89
+[27-Sep-2013 19:29:35 UTC] PHP Notice:  Use of undefined constant UNM - assumed 'UNM' in C:\wamp\www\na\SamScript\SamVw\SamVw.cls\d_see.php on line 114
+[27-Sep-2013 19:29:35 UTC] PHP Stack trace:
+[27-Sep-2013 19:29:35 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[27-Sep-2013 19:29:35 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[27-Sep-2013 19:29:35 UTC] PHP   3. Sam->__construct() C:\wamp\www\na\Samconfig\SamUri.php:48
+[27-Sep-2013 19:29:35 UTC] PHP   4. generel::SamInfousr() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:177
+[27-Sep-2013 19:29:35 UTC] PHP   5. Sam->__destruct() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:0
+[27-Sep-2013 19:29:35 UTC] PHP   6. SAMSOL_CONTROLLER::SamSee() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:610
+[27-Sep-2013 19:29:35 UTC] PHP   7. require() C:\wamp\www\na\Samdriver\SamCntrl.cls.php:89
+[27-Sep-2013 19:29:35 UTC] PHP Notice:  Use of undefined constant UPS - assumed 'UPS' in C:\wamp\www\na\SamScript\SamVw\SamVw.cls\d_see.php on line 116
+[27-Sep-2013 19:29:35 UTC] PHP Stack trace:
+[27-Sep-2013 19:29:35 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[27-Sep-2013 19:29:35 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[27-Sep-2013 19:29:35 UTC] PHP   3. Sam->__construct() C:\wamp\www\na\Samconfig\SamUri.php:48
+[27-Sep-2013 19:29:35 UTC] PHP   4. generel::SamInfousr() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:177
+[27-Sep-2013 19:29:35 UTC] PHP   5. Sam->__destruct() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:0
+[27-Sep-2013 19:29:35 UTC] PHP   6. SAMSOL_CONTROLLER::SamSee() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:610
+[27-Sep-2013 19:29:35 UTC] PHP   7. require() C:\wamp\www\na\Samdriver\SamCntrl.cls.php:89
+[27-Sep-2013 19:29:35 UTC] PHP Notice:  Use of undefined constant ULV - assumed 'ULV' in C:\wamp\www\na\SamScript\SamVw\SamVw.cls\d_see.php on line 117
+[27-Sep-2013 19:29:35 UTC] PHP Stack trace:
+[27-Sep-2013 19:29:35 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[27-Sep-2013 19:29:35 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[27-Sep-2013 19:29:35 UTC] PHP   3. Sam->__construct() C:\wamp\www\na\Samconfig\SamUri.php:48
+[27-Sep-2013 19:29:35 UTC] PHP   4. generel::SamInfousr() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:177
+[27-Sep-2013 19:29:35 UTC] PHP   5. Sam->__destruct() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:0
+[27-Sep-2013 19:29:35 UTC] PHP   6. SAMSOL_CONTROLLER::SamSee() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:610
+[27-Sep-2013 19:29:35 UTC] PHP   7. require() C:\wamp\www\na\Samdriver\SamCntrl.cls.php:89
+[27-Sep-2013 19:29:39 UTC] PHP Notice:  Use of undefined constant UID - assumed 'UID' in C:\wamp\www\na\Samdriver\mjorFunc.cls.php on line 360
+[27-Sep-2013 19:29:39 UTC] PHP Stack trace:
+[27-Sep-2013 19:29:39 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[27-Sep-2013 19:29:39 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[27-Sep-2013 19:29:39 UTC] PHP   3. Sam->__construct() C:\wamp\www\na\Samconfig\SamUri.php:48
+[27-Sep-2013 19:29:39 UTC] PHP   4. generel::SamInfousr() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:177
+[27-Sep-2013 19:29:39 UTC] PHP   5. Sam->__destruct() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:0
+[27-Sep-2013 19:29:39 UTC] PHP   6. mjorFunc::SamgetStyle() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:553
+[27-Sep-2013 19:29:39 UTC] PHP Notice:  Use of undefined constant UNM - assumed 'UNM' in C:\wamp\www\na\SamScript\SamVw\SamVw.cls\d_see.php on line 112
+[27-Sep-2013 19:29:39 UTC] PHP Stack trace:
+[27-Sep-2013 19:29:39 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[27-Sep-2013 19:29:39 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[27-Sep-2013 19:29:39 UTC] PHP   3. Sam->__construct() C:\wamp\www\na\Samconfig\SamUri.php:48
+[27-Sep-2013 19:29:39 UTC] PHP   4. generel::SamInfousr() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:177
+[27-Sep-2013 19:29:39 UTC] PHP   5. Sam->__destruct() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:0
+[27-Sep-2013 19:29:39 UTC] PHP   6. SAMSOL_CONTROLLER::SamSee() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:610
+[27-Sep-2013 19:29:39 UTC] PHP   7. require() C:\wamp\www\na\Samdriver\SamCntrl.cls.php:89
+[27-Sep-2013 19:29:39 UTC] PHP Notice:  Use of undefined constant UNM - assumed 'UNM' in C:\wamp\www\na\SamScript\SamVw\SamVw.cls\d_see.php on line 114
+[27-Sep-2013 19:29:39 UTC] PHP Stack trace:
+[27-Sep-2013 19:29:39 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[27-Sep-2013 19:29:39 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[27-Sep-2013 19:29:39 UTC] PHP   3. Sam->__construct() C:\wamp\www\na\Samconfig\SamUri.php:48
+[27-Sep-2013 19:29:39 UTC] PHP   4. generel::SamInfousr() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:177
+[27-Sep-2013 19:29:39 UTC] PHP   5. Sam->__destruct() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:0
+[27-Sep-2013 19:29:39 UTC] PHP   6. SAMSOL_CONTROLLER::SamSee() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:610
+[27-Sep-2013 19:29:39 UTC] PHP   7. require() C:\wamp\www\na\Samdriver\SamCntrl.cls.php:89
+[27-Sep-2013 19:29:39 UTC] PHP Notice:  Use of undefined constant UPS - assumed 'UPS' in C:\wamp\www\na\SamScript\SamVw\SamVw.cls\d_see.php on line 116
+[27-Sep-2013 19:29:39 UTC] PHP Stack trace:
+[27-Sep-2013 19:29:39 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[27-Sep-2013 19:29:39 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[27-Sep-2013 19:29:39 UTC] PHP   3. Sam->__construct() C:\wamp\www\na\Samconfig\SamUri.php:48
+[27-Sep-2013 19:29:39 UTC] PHP   4. generel::SamInfousr() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:177
+[27-Sep-2013 19:29:39 UTC] PHP   5. Sam->__destruct() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:0
+[27-Sep-2013 19:29:39 UTC] PHP   6. SAMSOL_CONTROLLER::SamSee() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:610
+[27-Sep-2013 19:29:39 UTC] PHP   7. require() C:\wamp\www\na\Samdriver\SamCntrl.cls.php:89
+[27-Sep-2013 19:29:39 UTC] PHP Notice:  Use of undefined constant ULV - assumed 'ULV' in C:\wamp\www\na\SamScript\SamVw\SamVw.cls\d_see.php on line 117
+[27-Sep-2013 19:29:39 UTC] PHP Stack trace:
+[27-Sep-2013 19:29:39 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[27-Sep-2013 19:29:39 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[27-Sep-2013 19:29:39 UTC] PHP   3. Sam->__construct() C:\wamp\www\na\Samconfig\SamUri.php:48
+[27-Sep-2013 19:29:39 UTC] PHP   4. generel::SamInfousr() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:177
+[27-Sep-2013 19:29:39 UTC] PHP   5. Sam->__destruct() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:0
+[27-Sep-2013 19:29:39 UTC] PHP   6. SAMSOL_CONTROLLER::SamSee() C:\wamp\www\na\SamScript\SamContrl\sam.cls.php:610
+[27-Sep-2013 19:29:39 UTC] PHP   7. require() C:\wamp\www\na\Samdriver\SamCntrl.cls.php:89
+[29-Sep-2013 08:13:16 UTC] PHP Fatal error:  Access to undeclared static property: SAMSOL_CONTROLLER::$LNG in C:\wamp\www\na\SamScript\SamVw\SamVw.install\home_see.php on line 17
+[29-Sep-2013 08:13:16 UTC] PHP Stack trace:
+[29-Sep-2013 08:13:16 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[29-Sep-2013 08:13:16 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[29-Sep-2013 08:13:16 UTC] PHP   3. call_user_func_array() C:\wamp\www\na\Samconfig\SamUri.php:94
+[29-Sep-2013 08:13:16 UTC] PHP   4. Install->index() C:\wamp\www\na\Samconfig\SamUri.php:94
+[29-Sep-2013 08:13:16 UTC] PHP   5. SAMSOL_CONTROLLER::SamSee() C:\wamp\www\na\SamScript\SamContrl\install.cls.php:34
+[29-Sep-2013 08:13:16 UTC] PHP   6. require() C:\wamp\www\na\Samdriver\SamCntrl.cls.php:103
+[29-Sep-2013 08:14:19 UTC] PHP Fatal error:  Access to undeclared static property: SAMSOL_CONTROLLER::$LNG in C:\wamp\www\na\SamScript\SamVw\SamVw.install\home_see.php on line 17
+[29-Sep-2013 08:14:19 UTC] PHP Stack trace:
+[29-Sep-2013 08:14:19 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[29-Sep-2013 08:14:19 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[29-Sep-2013 08:14:19 UTC] PHP   3. call_user_func_array() C:\wamp\www\na\Samconfig\SamUri.php:94
+[29-Sep-2013 08:14:19 UTC] PHP   4. Install->index() C:\wamp\www\na\Samconfig\SamUri.php:94
+[29-Sep-2013 08:14:19 UTC] PHP   5. SAMSOL_CONTROLLER::SamSee() C:\wamp\www\na\SamScript\SamContrl\install.cls.php:34
+[29-Sep-2013 08:14:19 UTC] PHP   6. require() C:\wamp\www\na\Samdriver\SamCntrl.cls.php:103
+[29-Sep-2013 08:16:06 UTC] PHP Fatal error:  Access to undeclared static property: SAMSOL_CONTROLLER::$LNG in C:\wamp\www\na\SamScript\SamVw\SamVw.install\home_see.php on line 17
+[29-Sep-2013 08:16:06 UTC] PHP Stack trace:
+[29-Sep-2013 08:16:06 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[29-Sep-2013 08:16:06 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[29-Sep-2013 08:16:06 UTC] PHP   3. call_user_func_array() C:\wamp\www\na\Samconfig\SamUri.php:94
+[29-Sep-2013 08:16:06 UTC] PHP   4. Install->index() C:\wamp\www\na\Samconfig\SamUri.php:94
+[29-Sep-2013 08:16:06 UTC] PHP   5. SAMSOL_CONTROLLER::SamSee() C:\wamp\www\na\SamScript\SamContrl\install.cls.php:40
+[29-Sep-2013 08:16:06 UTC] PHP   6. require() C:\wamp\www\na\Samdriver\SamCntrl.cls.php:103
+[29-Sep-2013 08:16:07 UTC] PHP Fatal error:  Access to undeclared static property: SAMSOL_CONTROLLER::$LNG in C:\wamp\www\na\SamScript\SamVw\SamVw.install\home_see.php on line 17
+[29-Sep-2013 08:16:07 UTC] PHP Stack trace:
+[29-Sep-2013 08:16:07 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[29-Sep-2013 08:16:07 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[29-Sep-2013 08:16:07 UTC] PHP   3. call_user_func_array() C:\wamp\www\na\Samconfig\SamUri.php:94
+[29-Sep-2013 08:16:07 UTC] PHP   4. Install->index() C:\wamp\www\na\Samconfig\SamUri.php:94
+[29-Sep-2013 08:16:07 UTC] PHP   5. SAMSOL_CONTROLLER::SamSee() C:\wamp\www\na\SamScript\SamContrl\install.cls.php:40
+[29-Sep-2013 08:16:07 UTC] PHP   6. require() C:\wamp\www\na\Samdriver\SamCntrl.cls.php:103
+[29-Sep-2013 08:16:07 UTC] PHP Fatal error:  Access to undeclared static property: SAMSOL_CONTROLLER::$LNG in C:\wamp\www\na\SamScript\SamVw\SamVw.install\home_see.php on line 17
+[29-Sep-2013 08:16:07 UTC] PHP Stack trace:
+[29-Sep-2013 08:16:07 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[29-Sep-2013 08:16:07 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[29-Sep-2013 08:16:07 UTC] PHP   3. call_user_func_array() C:\wamp\www\na\Samconfig\SamUri.php:94
+[29-Sep-2013 08:16:07 UTC] PHP   4. Install->index() C:\wamp\www\na\Samconfig\SamUri.php:94
+[29-Sep-2013 08:16:07 UTC] PHP   5. SAMSOL_CONTROLLER::SamSee() C:\wamp\www\na\SamScript\SamContrl\install.cls.php:40
+[29-Sep-2013 08:16:07 UTC] PHP   6. require() C:\wamp\www\na\Samdriver\SamCntrl.cls.php:103
+[29-Sep-2013 08:17:06 UTC] PHP Fatal error:  Access to undeclared static property: Install::$LNG in C:\wamp\www\na\SamScript\SamContrl\install.cls.php on line 23
+[29-Sep-2013 08:17:06 UTC] PHP Stack trace:
+[29-Sep-2013 08:17:06 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[29-Sep-2013 08:17:06 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[29-Sep-2013 08:17:06 UTC] PHP   3. Install->__construct() C:\wamp\www\na\Samconfig\SamUri.php:48
+[29-Sep-2013 08:33:18 UTC] PHP Notice:  Undefined variable: Install_Sam in C:\wamp\www\na\SamScript\SamVw\SamVw.install\hed_see.php on line 25
+[29-Sep-2013 08:33:18 UTC] PHP Stack trace:
+[29-Sep-2013 08:33:18 UTC] PHP   1. {main}() C:\wamp\www\na\index.php:0
+[29-Sep-2013 08:33:18 UTC] PHP   2. require() C:\wamp\www\na\index.php:35
+[29-Sep-2013 08:33:18 UTC] PHP   3. Install->__construct() C:\wamp\www\na\Samconfig\SamUri.php:48
+[29-Sep-2013 08:33:18 UTC] PHP   4. SAMSOL_CONTROLLER::SamSee() C:\wamp\www\na\SamScript\SamContrl\install.cls.php:24
+[29-Sep-2013 08:33:18 UTC] PHP   5. require() C:\wamp\www\na\Samdriver\SamCntrl.cls.php:103
+[29-Sep-2013 08:53:28 UTC] PHP Notice:  Use of undefined constant tp - assumed 'tp' in C:\wamp\www\ml\SamScript\SamVw\SamVw.install\start_see.php on line 16
+[29-Sep-2013 08:53:28 UTC] PHP Stack trace:
+[29-Sep-2013 08:53:28 UTC] PHP   1. {main}() C:\wamp\www\ml\index.php:0
+[29-Sep-2013 08:53:28 UTC] PHP   2. require() C:\wamp\www\ml\index.php:35
+[29-Sep-2013 08:53:28 UTC] PHP   3. call_user_func_array() C:\wamp\www\ml\Samconfig\SamUri.php:94
+[29-Sep-2013 08:53:28 UTC] PHP   4. Install->start() C:\wamp\www\ml\Samconfig\SamUri.php:94
+[29-Sep-2013 08:53:28 UTC] PHP   5. SAMSOL_CONTROLLER::SamSee() C:\wamp\www\ml\SamScript\SamContrl\install.cls.php:39
+[29-Sep-2013 08:53:28 UTC] PHP   6. require() C:\wamp\www\ml\Samdriver\SamCntrl.cls.php:103
+[29-Sep-2013 08:58:18 UTC] PHP Notice:  Use of undefined constant UID - assumed 'UID' in C:\wamp\www\ml\Samdriver\mjorFunc.cls.php on line 360
+[29-Sep-2013 08:58:18 UTC] PHP Stack trace:
+[29-Sep-2013 08:58:18 UTC] PHP   1. {main}() C:\wamp\www\ml\index.php:0
+[29-Sep-2013 08:58:18 UTC] PHP   2. require() C:\wamp\www\ml\index.php:35
+[29-Sep-2013 08:58:18 UTC] PHP   3. Sam->__construct() C:\wamp\www\ml\Samconfig\SamUri.php:104
+[29-Sep-2013 08:58:18 UTC] PHP   4. SAMSOL_CONTROLLER::SamModel() C:\wamp\www\ml\SamScript\SamContrl\sam.cls.php:179
+[29-Sep-2013 08:58:18 UTC] PHP   5. SAMSOL_MODEL->__construct() C:\wamp\www\ml\Samdriver\SamCntrl.cls.php:66
+[29-Sep-2013 08:58:18 UTC] PHP   6. Sam->__destruct() C:\wamp\www\ml\SamScript\SamContrl\sam.cls.php:0
+[29-Sep-2013 08:58:18 UTC] PHP   7. mjorFunc::SamgetStyle() C:\wamp\www\ml\SamScript\SamContrl\sam.cls.php:559
+[29-Sep-2013 08:58:18 UTC] PHP Notice:  Use of undefined constant UNM - assumed 'UNM' in C:\wamp\www\ml\SamScript\SamVw\SamVw.cls\d_see.php on line 112
+[29-Sep-2013 08:58:18 UTC] PHP Stack trace:
+[29-Sep-2013 08:58:18 UTC] PHP   1. {main}() C:\wamp\www\ml\index.php:0
+[29-Sep-2013 08:58:18 UTC] PHP   2. require() C:\wamp\www\ml\index.php:35
+[29-Sep-2013 08:58:18 UTC] PHP   3. Sam->__construct() C:\wamp\www\ml\Samconfig\SamUri.php:104
+[29-Sep-2013 08:58:18 UTC] PHP   4. SAMSOL_CONTROLLER::SamModel() C:\wamp\www\ml\SamScript\SamContrl\sam.cls.php:179
+[29-Sep-2013 08:58:18 UTC] PHP   5. SAMSOL_MODEL->__construct() C:\wamp\www\ml\Samdriver\SamCntrl.cls.php:66
+[29-Sep-2013 08:58:18 UTC] PHP   6. Sam->__destruct() C:\wamp\www\ml\SamScript\SamContrl\sam.cls.php:0
+[29-Sep-2013 08:58:18 UTC] PHP   7. SAMSOL_CONTROLLER::SamSee() C:\wamp\www\ml\SamScript\SamContrl\sam.cls.php:616
+[29-Sep-2013 08:58:18 UTC] PHP   8. require() C:\wamp\www\ml\Samdriver\SamCntrl.cls.php:103
+[29-Sep-2013 08:58:18 UTC] PHP Notice:  Use of undefined constant UPS - assumed 'UPS' in C:\wamp\www\ml\SamScript\SamVw\SamVw.cls\d_see.php on line 116
+[29-Sep-2013 08:58:18 UTC] PHP Stack trace:
+[29-Sep-2013 08:58:18 UTC] PHP   1. {main}() C:\wamp\www\ml\index.php:0
+[29-Sep-2013 08:58:18 UTC] PHP   2. require() C:\wamp\www\ml\index.php:35
+[29-Sep-2013 08:58:18 UTC] PHP   3. Sam->__construct() C:\wamp\www\ml\Samconfig\SamUri.php:104
+[29-Sep-2013 08:58:18 UTC] PHP   4. SAMSOL_CONTROLLER::SamModel() C:\wamp\www\ml\SamScript\SamContrl\sam.cls.php:179
+[29-Sep-2013 08:58:18 UTC] PHP   5. SAMSOL_MODEL->__construct() C:\wamp\www\ml\Samdriver\SamCntrl.cls.php:66
+[29-Sep-2013 08:58:18 UTC] PHP   6. Sam->__destruct() C:\wamp\www\ml\SamScript\SamContrl\sam.cls.php:0
+[29-Sep-2013 08:58:18 UTC] PHP   7. SAMSOL_CONTROLLER::SamSee() C:\wamp\www\ml\SamScript\SamContrl\sam.cls.php:616
+[29-Sep-2013 08:58:18 UTC] PHP   8. require() C:\wamp\www\ml\Samdriver\SamCntrl.cls.php:103
+[29-Sep-2013 08:58:18 UTC] PHP Notice:  Use of undefined constant ULV - assumed 'ULV' in C:\wamp\www\ml\SamScript\SamVw\SamVw.cls\d_see.php on line 117
+[29-Sep-2013 08:58:18 UTC] PHP Stack trace:
+[29-Sep-2013 08:58:18 UTC] PHP   1. {main}() C:\wamp\www\ml\index.php:0
+[29-Sep-2013 08:58:18 UTC] PHP   2. require() C:\wamp\www\ml\index.php:35
+[29-Sep-2013 08:58:18 UTC] PHP   3. Sam->__construct() C:\wamp\www\ml\Samconfig\SamUri.php:104
+[29-Sep-2013 08:58:18 UTC] PHP   4. SAMSOL_CONTROLLER::SamModel() C:\wamp\www\ml\SamScript\SamContrl\sam.cls.php:179
+[29-Sep-2013 08:58:18 UTC] PHP   5. SAMSOL_MODEL->__construct() C:\wamp\www\ml\Samdriver\SamCntrl.cls.php:66
+[29-Sep-2013 08:58:18 UTC] PHP   6. Sam->__destruct() C:\wamp\www\ml\SamScript\SamContrl\sam.cls.php:0
+[29-Sep-2013 08:58:18 UTC] PHP   7. SAMSOL_CONTROLLER::SamSee() C:\wamp\www\ml\SamScript\SamContrl\sam.cls.php:616
+[29-Sep-2013 08:58:18 UTC] PHP   8. require() C:\wamp\www\ml\Samdriver\SamCntrl.cls.php:103
+[29-Sep-2013 09:02:08 UTC] PHP Fatal error:  Access to undeclared static property: Install::$connect in C:\wamp\www\ml\SamScript\SamContrl\install.cls.php on line 66
+[29-Sep-2013 09:02:08 UTC] PHP Stack trace:
+[29-Sep-2013 09:02:08 UTC] PHP   1. {main}() C:\wamp\www\ml\index.php:0
+[29-Sep-2013 09:02:08 UTC] PHP   2. require() C:\wamp\www\ml\index.php:35
+[29-Sep-2013 09:02:08 UTC] PHP   3. call_user_func_array() C:\wamp\www\ml\Samconfig\SamUri.php:94
+[29-Sep-2013 09:02:08 UTC] PHP   4. Install->start() C:\wamp\www\ml\Samconfig\SamUri.php:94
+[29-Sep-2013 09:02:08 UTC] PHP   5. Install::sam_construct() C:\wamp\www\ml\SamScript\SamContrl\install.cls.php:39
+[29-Sep-2013 09:02:08 UTC] PHP   6. Install::Samconect() C:\wamp\www\ml\SamScript\SamContrl\install.cls.php:49
+[29-Sep-2013 14:27:38 UTC] PHP Notice:  Undefined variable: Install_Sam in C:\wamp\www\ml\SamScript\SamVw\SamVw.install\admin_ins_see.php on line 15
+[29-Sep-2013 14:27:38 UTC] PHP Stack trace:
+[29-Sep-2013 14:27:38 UTC] PHP   1. {main}() C:\wamp\www\ml\index.php:0
+[29-Sep-2013 14:27:38 UTC] PHP   2. require() C:\wamp\www\ml\index.php:35
+[29-Sep-2013 14:27:38 UTC] PHP   3. call_user_func_array() C:\wamp\www\ml\Samconfig\SamUri.php:94
+[29-Sep-2013 14:27:38 UTC] PHP   4. Install->insatall_admin() C:\wamp\www\ml\Samconfig\SamUri.php:94
+[29-Sep-2013 14:27:38 UTC] PHP   5. SAMSOL_CONTROLLER::SamSee() C:\wamp\www\ml\SamScript\SamContrl\install.cls.php:55
+[29-Sep-2013 14:27:38 UTC] PHP   6. require() C:\wamp\www\ml\Samdriver\SamCntrl.cls.php:103
+[29-Sep-2013 14:27:38 UTC] PHP Notice:  Undefined variable: Install_Sam in C:\wamp\www\ml\SamScript\SamVw\SamVw.install\admin_ins_see.php on line 17
+[29-Sep-2013 14:27:38 UTC] PHP Stack trace:
+[29-Sep-2013 14:27:38 UTC] PHP   1. {main}() C:\wamp\www\ml\index.php:0
+[29-Sep-2013 14:27:38 UTC] PHP   2. require() C:\wamp\www\ml\index.php:35
+[29-Sep-2013 14:27:38 UTC] PHP   3. call_user_func_array() C:\wamp\www\ml\Samconfig\SamUri.php:94
+[29-Sep-2013 14:27:38 UTC] PHP   4. Install->insatall_admin() C:\wamp\www\ml\Samconfig\SamUri.php:94
+[29-Sep-2013 14:27:38 UTC] PHP   5. SAMSOL_CONTROLLER::SamSee() C:\wamp\www\ml\SamScript\SamContrl\install.cls.php:55
+[29-Sep-2013 14:27:38 UTC] PHP   6. require() C:\wamp\www\ml\Samdriver\SamCntrl.cls.php:103
+[29-Sep-2013 14:27:38 UTC] PHP Notice:  Undefined variable: Install_Sam in C:\wamp\www\ml\SamScript\SamVw\SamVw.install\admin_ins_see.php on line 19
+[29-Sep-2013 14:27:38 UTC] PHP Stack trace:
+[29-Sep-2013 14:27:38 UTC] PHP   1. {main}() C:\wamp\www\ml\index.php:0
+[29-Sep-2013 14:27:38 UTC] PHP   2. require() C:\wamp\www\ml\index.php:35
+[29-Sep-2013 14:27:38 UTC] PHP   3. call_user_func_array() C:\wamp\www\ml\Samconfig\SamUri.php:94
+[29-Sep-2013 14:27:38 UTC] PHP   4. Install->insatall_admin() C:\wamp\www\ml\Samconfig\SamUri.php:94
+[29-Sep-2013 14:27:38 UTC] PHP   5. SAMSOL_CONTROLLER::SamSee() C:\wamp\www\ml\SamScript\SamContrl\install.cls.php:55
+[29-Sep-2013 14:27:38 UTC] PHP   6. require() C:\wamp\www\ml\Samdriver\SamCntrl.cls.php:103
+[29-Sep-2013 14:27:38 UTC] PHP Notice:  Undefined variable: Install_Sam in C:\wamp\www\ml\SamScript\SamVw\SamVw.install\admin_ins_see.php on line 21
+[29-Sep-2013 14:27:38 UTC] PHP Stack trace:
+[29-Sep-2013 14:27:38 UTC] PHP   1. {main}() C:\wamp\www\ml\index.php:0
+[29-Sep-2013 14:27:38 UTC] PHP   2. require() C:\wamp\www\ml\index.php:35
+[29-Sep-2013 14:27:38 UTC] PHP   3. call_user_func_array() C:\wamp\www\ml\Samconfig\SamUri.php:94
+[29-Sep-2013 14:27:38 UTC] PHP   4. Install->insatall_admin() C:\wamp\www\ml\Samconfig\SamUri.php:94
+[29-Sep-2013 14:27:38 UTC] PHP   5. SAMSOL_CONTROLLER::SamSee() C:\wamp\www\ml\SamScript\SamContrl\install.cls.php:55
+[29-Sep-2013 14:27:38 UTC] PHP   6. require() C:\wamp\www\ml\Samdriver\SamCntrl.cls.php:103
+[29-Sep-2013 14:28:09 UTC] PHP Notice:  Undefined index: ADMIN_PASS_R in C:\wamp\www\ml\SamScript\SamVw\SamVw.install\admin_ins_see.php on line 21
+[29-Sep-2013 14:28:09 UTC] PHP Stack trace:
+[29-Sep-2013 14:28:09 UTC] PHP   1. {main}() C:\wamp\www\ml\index.php:0
+[29-Sep-2013 14:28:09 UTC] PHP   2. require() C:\wamp\www\ml\index.php:35
+[29-Sep-2013 14:28:09 UTC] PHP   3. call_user_func_array() C:\wamp\www\ml\Samconfig\SamUri.php:94
+[29-Sep-2013 14:28:09 UTC] PHP   4. Install->insatall_admin() C:\wamp\www\ml\Samconfig\SamUri.php:94
+[29-Sep-2013 14:28:09 UTC] PHP   5. SAMSOL_CONTROLLER::SamSee() C:\wamp\www\ml\SamScript\SamContrl\install.cls.php:55
+[29-Sep-2013 14:28:09 UTC] PHP   6. require() C:\wamp\www\ml\Samdriver\SamCntrl.cls.php:103
+[29-Sep-2013 15:37:48 UTC] PHP Fatal error:  Class 'insert' not found in C:\wamp\www\ml\Samdriver\SamCntrl.cls.php on line 66
+[29-Sep-2013 15:37:48 UTC] PHP Stack trace:
+[29-Sep-2013 15:37:48 UTC] PHP   1. {main}() C:\wamp\www\ml\index.php:0
+[29-Sep-2013 15:37:48 UTC] PHP   2. require() C:\wamp\www\ml\index.php:35
+[29-Sep-2013 15:37:48 UTC] PHP   3. call_user_func_array() C:\wamp\www\ml\Samconfig\SamUri.php:94
+[29-Sep-2013 15:37:48 UTC] PHP   4. Install->insert() C:\wamp\www\ml\Samconfig\SamUri.php:94
+[29-Sep-2013 15:37:48 UTC] PHP   5. SAMSOL_CONTROLLER::SamModel() C:\wamp\www\ml\SamScript\SamContrl\install.cls.php:63

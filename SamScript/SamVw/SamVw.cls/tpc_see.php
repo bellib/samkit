@@ -1,0 +1,23 @@
+var topicID = '<?=$TID;?>';
+var topictitle = "<?=$TPCTITLE;?>";
+var memberLevelSup = "0";
+var sortorder = 0;
+var isfooter = 1;
+var ucs = "";
+var ckm = ""; 
+var forumStatus = '<?=$FrmStat;?>';
+var topicLocked = '<?=$TopicST;?>';
+var topicLockLevel = '<?=$TopicST;?>';
+var pagenum = 0;
+var topicMonitored = false;
+var hideSignatures = 1; 
+var topicFlags = '<?=$TopFlg;?>';
+var topics = new Array (<?=$TPCS?>);
+var authors = new Array (<?=$AUTH?>);
+var signatures = new Array (
+0,"");
+var memberreplies = 0;
+var ucs = 0;
+var memberFormat = "FONT-FAMILY:Times New Roman;FONT-SIZE:12pt;TEXT-ALIGN:right;COLOR:#000000;";
+var totalpages = 1;
+var topicNam = "<?=$Ses;?>";
